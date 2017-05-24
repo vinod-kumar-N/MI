@@ -1,0 +1,4401 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<doc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34001</RecordNo>
+    <CustomerName>Manuia Motayen</CustomerName>
+    <EmailAddress>karly.ali.@ottawa.ca</EmailAddress>
+    <ResAddress>3046 30th Avinui North</ResAddress>
+    <City_1>jackson</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>64341</Zip_1>
+    <PhNo_1>1664616763</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 08/13/1958</D_Birth>
+    <Height>170</Height>
+    <Weight>160</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Manuia Motayen</BillingName>
+    <ShipperName>Lorraine Mitzner</ShipperName>
+    <City_2>park rapids</City_2>
+    <State_2>NM</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>2439828819</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_3148</PloicyNo>
+    <D_B_Life_Assure>Wednesday, 08/13/1958</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Manuia Motayen</Name_P_Holder>
+    <STM_Name>Aaron Anderson</STM_Name>
+    <STM_Code>BaX_01aCp_13124</STM_Code>
+    <DOB>Wednesday, 08/13/1958</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>LORAZEPAM</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$5.17</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Zip_2 is Missing.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Thursday, May 18, 2017 2:36:54 PM</CreateDate>
+    <UpdateDate>Monday, May 22, 2017 5:25:34 PM</UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34001</RecordNo>
+    <CustomerName>Manuia Motayen</CustomerName>
+    <EmailAddress>karly.ali.@ottawa.ca</EmailAddress>
+    <ResAddress>3046 30th Avinui North</ResAddress>
+    <City_1>jackson</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>64341</Zip_1>
+    <PhNo_1>1664616763</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 08/13/1958</D_Birth>
+    <Height>170</Height>
+    <Weight>160</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Manuia Motayen</BillingName>
+    <ShipperName>Lorraine Mitzner</ShipperName>
+    <City_2>park rapids</City_2>
+    <State_2>NM</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>2439828819</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_3148</PloicyNo>
+    <D_B_Life_Assure>Wednesday, 08/13/1958</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Manuia Motayen</Name_P_Holder>
+    <STM_Name>Aaron Anderson</STM_Name>
+    <STM_Code>BaX_01aCp_13124</STM_Code>
+    <DOB>Wednesday, 08/13/1958</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>LORAZEPAM</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$5.17</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Zip_2 is Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Friday, May 19, 2017 2:31:21 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34002</RecordNo>
+    <CustomerName>Chavayda Denner</CustomerName>
+    <EmailAddress>bedbugznest@yahoo.com</EmailAddress>
+    <ResAddress>2031 W Judith Lani</ResAddress>
+    <City_1>BELLWOOD</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>62478</Zip_1>
+    <PhNo_1>3884510153</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>11/27/1956</D_Birth>
+    <Height>173</Height>
+    <Weight>168</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Chavayda Denner</BillingName>
+    <ShipperName>Arnold Grimm</ShipperName>
+    <City_2>clifton</City_2>
+    <State_2>NJ</State_2>
+    <Zip_2>81279</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>4784182817</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>Yt024_Re157</PloicyNo>
+    <D_B_Life_Assure>11/27/1956</D_B_Life_Assure>
+    <P_Inst>$200.00</P_Inst>
+    <Name_P_Holder>Chavayada Denner</Name_P_Holder>
+    <STM_Name>H Sassman</STM_Name>
+    <STM_Code>BaX_01aCm-6362</STM_Code>
+    <DOB>11/27/1956</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>GAS</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$2.85</PillRate>
+    <Cost>$505.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$525.00</TotalAmount>
+    <Remarks>Customer Name and Email Address, Billing Name and Shipper Name and STM_Code and DOB are Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Thursday, May 18, 2017 2:49:09 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34002</RecordNo>
+    <CustomerName>Chavayda Denner</CustomerName>
+    <EmailAddress>bedbugznest@yahoo.com</EmailAddress>
+    <ResAddress>2031 W Judith Lani</ResAddress>
+    <City_1>BELLWOOD</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>62478</Zip_1>
+    <PhNo_1>3884510153</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>11/27/1956</D_Birth>
+    <Height>173</Height>
+    <Weight>168</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Chavayda Denner</BillingName>
+    <ShipperName>Arnold Grimm</ShipperName>
+    <City_2>clifton</City_2>
+    <State_2>NJ</State_2>
+    <Zip_2>81279</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>4784182817</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>Yt024_Re157</PloicyNo>
+    <D_B_Life_Assure>11/27/1956</D_B_Life_Assure>
+    <P_Inst>$200.00</P_Inst>
+    <Name_P_Holder>Chavayada Denner</Name_P_Holder>
+    <STM_Name>H Sassman</STM_Name>
+    <STM_Code>BaX_01aCm-6362</STM_Code>
+    <DOB>11/27/1956</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>GAS</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$2.85</PillRate>
+    <Cost>$505.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$525.00</TotalAmount>
+    <Remarks>Customer Name and Email Address, Billing Name and Shipper Name and STM_Code and DOB are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Friday, May 19, 2017 2:43:45 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34003</RecordNo>
+    <CustomerName>Dragoo Friedberg</CustomerName>
+    <EmailAddress>heeldawag@juno.com</EmailAddress>
+    <ResAddress>2034 Silktassil</ResAddress>
+    <City_1>lubbock</City_1>
+    <State_1>OK</State_1>
+    <Zip_1>76153</Zip_1>
+    <PhNo_1>1625689095</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>N.A</D_Birth>
+    <Height>162</Height>
+    <Weight>168</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Dragoo Friedberg</BillingName>
+    <ShipperName>Jeri Rome</ShipperName>
+    <City_2>Lawrence</City_2>
+    <State_2>NY</State_2>
+    <Zip_2>74440</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>6980208804</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>yWzX_092_8249</PloicyNo>
+    <D_B_Life_Assure>Thursday, 07/12/1973</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Dragoo Friedberg</Name_P_Holder>
+    <STM_Name>Fred C White</STM_Name>
+    <STM_Code>BaX_01aCm-1525</STM_Code>
+    <DOB>Thursday, 07/12/1973</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Bank</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.30</PillRate>
+    <Cost>$375.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$395.00</TotalAmount>
+    <Remarks>Customer Name and Email Address, Billing Name and Shipper Name, STM_Code and DOB and Dosage and Tablets are Merged and Allergiesd is Missing.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Thursday, May 18, 2017 3:01:55 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34003</RecordNo>
+    <CustomerName>Dragoo Friedberg</CustomerName>
+    <EmailAddress>heeldawag@juno.com</EmailAddress>
+    <ResAddress>2034 Silktassil</ResAddress>
+    <City_1>lubbock</City_1>
+    <State_1>OK</State_1>
+    <Zip_1>76153</Zip_1>
+    <PhNo_1>1625689095</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>N.A</D_Birth>
+    <Height>162</Height>
+    <Weight>168</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Dragoo Friedberg</BillingName>
+    <ShipperName>Jeri Rome</ShipperName>
+    <City_2>Lawrence</City_2>
+    <State_2>NY</State_2>
+    <Zip_2>74440</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>6980208804</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>yWzX_092_8249</PloicyNo>
+    <D_B_Life_Assure>Thursday, 07/12/1973</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Dragoo Friedberg</Name_P_Holder>
+    <STM_Name>Fred C White</STM_Name>
+    <STM_Code>BaX_01aCm-1525</STM_Code>
+    <DOB>Thursday, 07/12/1973</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Bank</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.30</PillRate>
+    <Cost>$375.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$395.00</TotalAmount>
+    <Remarks>Customer Name and Email Address, Billing Name and Shipper Name, STM_Code and DOB and Dosage and Tablets are Merged and Allergiesd is Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Friday, May 19, 2017 2:56:30 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34004</RecordNo>
+    <CustomerName>Falkenstein Goffman</CustomerName>
+    <EmailAddress>arrtnb26@yahoo.com</EmailAddress>
+    <ResAddress>1820 Columbia Dr i</ResAddress>
+    <City_1>Charleston</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>12478</Zip_1>
+    <PhNo_1>2451743545</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 07/13/1949</D_Birth>
+    <Height>180</Height>
+    <Weight>170</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Falkenstein Goffman</BillingName>
+    <ShipperName>Creighton Ring</ShipperName>
+    <City_2>Bloomfield</City_2>
+    <State_2>CT</State_2>
+    <Zip_2>36621</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>4446912331</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt_i7-Un-6151</PloicyNo>
+    <D_B_Life_Assure>Wednesday, 07/13/1949</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Falkenstein Goffman</Name_P_Holder>
+    <STM_Name>N.A</STM_Name>
+    <STM_Code>BaX_01acM-2814</STM_Code>
+    <DOB>Wednesday,07/13/1949</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>N.A</Tablets>
+    <PillRate>$8.57</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>STM Name and Tablets is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Thursday, May 18, 2017 3:53:42 PM</CreateDate>
+    <UpdateDate>Monday, May 22, 2017 4:29:40 PM</UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34004</RecordNo>
+    <CustomerName>Falkenstein Goffman</CustomerName>
+    <EmailAddress>arrtnb26@yahoo.com</EmailAddress>
+    <ResAddress>1820 Columbia Dr i</ResAddress>
+    <City_1>Charleston</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>12478</Zip_1>
+    <PhNo_1>2451743545</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 07/13/1949</D_Birth>
+    <Height>180</Height>
+    <Weight>170</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Falkenstein Goffman</BillingName>
+    <ShipperName>Creighton Ring</ShipperName>
+    <City_2>Bloomfield</City_2>
+    <State_2>CT</State_2>
+    <Zip_2>36621</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>4446912331</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt_i7-Un-6151</PloicyNo>
+    <D_B_Life_Assure>Wednesday, 07/13/1949</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Falkenstein Goffman</Name_P_Holder>
+    <STM_Name>N.A</STM_Name>
+    <STM_Code>BaX_01acM-2814</STM_Code>
+    <DOB>Wednesday,07/13/1949</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>N.A</Tablets>
+    <PillRate>$8.57</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>STM Name and Tablets is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Friday, May 19, 2017 3:07:05 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34005</RecordNo>
+    <CustomerName>Fuselier Hapeman</CustomerName>
+    <EmailAddress>pusawi@verizon.net</EmailAddress>
+    <ResAddress>1820 columbia Dr i</ResAddress>
+    <City_1>Charleston</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>12478</Zip_1>
+    <PhNo_1>2451743545</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 07/13/1949</D_Birth>
+    <Height>180</Height>
+    <Weight>170</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Fuselier Hapeman</BillingName>
+    <ShipperName>Creighton Ring</ShipperName>
+    <City_2>Bloomfield</City_2>
+    <State_2>CT</State_2>
+    <Zip_2>36621</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>4446912331</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt_i7Un-6151</PloicyNo>
+    <D_B_Life_Assure>Wednesday, 07/13/1949</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Fuselier Hapeman</Name_P_Holder>
+    <STM_Name>N.A</STM_Name>
+    <STM_Code>BaX_01acM-2814</STM_Code>
+    <DOB>Wednesday, 07/13/1949</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>N.A</Tablets>
+    <PillRate>$8.57</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>STM Name and Tablets is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Thursday, May 18, 2017 4:24:50 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34005</RecordNo>
+    <CustomerName>Fuselier Hapeman</CustomerName>
+    <EmailAddress>pusawi@verizon.net</EmailAddress>
+    <ResAddress>1820 columbia Dr i</ResAddress>
+    <City_1>Charleston</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>12478</Zip_1>
+    <PhNo_1>2451743545</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 07/13/1949</D_Birth>
+    <Height>180</Height>
+    <Weight>170</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Fuselier Hapeman</BillingName>
+    <ShipperName>Creighton Ring</ShipperName>
+    <City_2>Bloomfield</City_2>
+    <State_2>CT</State_2>
+    <Zip_2>36621</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>4446912331</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt_i7Un-6151</PloicyNo>
+    <D_B_Life_Assure>Wednesday, 07/13/1949</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Fuselier Hapeman</Name_P_Holder>
+    <STM_Name>N.A</STM_Name>
+    <STM_Code>BaX_01acM-2814</STM_Code>
+    <DOB>Wednesday, 07/13/1949</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>N.A</Tablets>
+    <PillRate>$8.57</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>STM Name and Tablets is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Friday, May 19, 2017 3:19:35 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34006</RecordNo>
+    <CustomerName>Gorter Hollman</CustomerName>
+    <EmailAddress>rpanddsmead@azulstar.com</EmailAddress>
+    <ResAddress>1301 Andria Lani</ResAddress>
+    <City_1>Colorada Springs</City_1>
+    <State_1>OH</State_1>
+    <Zip_1>65947</Zip_1>
+    <PhNo_1>9055562126</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday, 10/21/1966</D_Birth>
+    <Height>168</Height>
+    <Weight>185</Weight>
+    <Blood_Group>N.A</Blood_Group>
+    <BillingName>Gorter Hollman</BillingName>
+    <ShipperName>Dorothy</ShipperName>
+    <City_2>Frederick</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>54550</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>3834755559</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Zc_Bqn_1668</PloicyNo>
+    <D_B_Life_Assure>N.A</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Gorter Hollman</Name_P_Holder>
+    <STM_Name>Javier Ramos</STM_Name>
+    <STM_Code>BaX_01aCM-4489</STM_Code>
+    <DOB>Friday, 10/21/1966</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>0.25 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.72</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Blood Group, D_B_Life_Assure is Missing and STM_Code and DOB, Dosage and Tablets are Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Thursday, May 18, 2017 4:38:11 PM</CreateDate>
+    <UpdateDate>Monday, May 22, 2017 4:42:09 PM</UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34006</RecordNo>
+    <CustomerName>Gorter Hollman</CustomerName>
+    <EmailAddress>rpanddsmead@azulstar.com</EmailAddress>
+    <ResAddress>1301 Andria Lani</ResAddress>
+    <City_1>Colorada Springs</City_1>
+    <State_1>OH</State_1>
+    <Zip_1>65947</Zip_1>
+    <PhNo_1>9055562126</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday, 10/21/1966</D_Birth>
+    <Height>168</Height>
+    <Weight>185</Weight>
+    <Blood_Group>N.A</Blood_Group>
+    <BillingName>Gorter Hollman</BillingName>
+    <ShipperName>Dorothy</ShipperName>
+    <City_2>Frederick</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>54550</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>3834755559</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Zc_Bqn_1668</PloicyNo>
+    <D_B_Life_Assure>N.A</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Gorter Hollman</Name_P_Holder>
+    <STM_Name>Javier Ramos</STM_Name>
+    <STM_Code>BaX_01aCM-4489</STM_Code>
+    <DOB>Friday, 10/21/1966</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>0.25 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.72</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Blood Group, D_B_Life_Assure is Missing and STM_Code and DOB, Dosage and Tablets are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Friday, May 19, 2017 4:21:17 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34007</RecordNo>
+    <CustomerName>Kaid Lashutva</CustomerName>
+    <EmailAddress>jaryder1@aol.com</EmailAddress>
+    <ResAddress>817 mccabi avi</ResAddress>
+    <City_1>naperville</City_1>
+    <State_1>NY</State_1>
+    <Zip_1>95482</Zip_1>
+    <PhNo_1>2697119868</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Thursday, 07/12/1973</D_Birth>
+    <Height>167</Height>
+    <Weight>167</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Kaid Lashutva</BillingName>
+    <ShipperName>Jeri Ledbetter</ShipperName>
+    <City_2>raleigh</City_2>
+    <State_2>LA</State_2>
+    <Zip_2>20351</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>6751468050</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NOI</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>Yt024_Re3.000</PloicyNo>
+    <D_B_Life_Assure>Thursday, 07/12/1973</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Kaid Lashutva</Name_P_Holder>
+    <STM_Name>Olivia D E Hoyos</STM_Name>
+    <STM_Code>BaX_01acM-7719</STM_Code>
+    <DOB>Thursday, 07/12/1973</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Gas</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$342.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$362.00</TotalAmount>
+    <Remarks>Smoker is Invalid and STM_Code and DOB is Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Thursday, May 18, 2017 4:48:48 PM</CreateDate>
+    <UpdateDate>Monday, May 22, 2017 4:49:11 PM</UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34007</RecordNo>
+    <CustomerName>Kaid Lashutva</CustomerName>
+    <EmailAddress>jaryder1@aol.com</EmailAddress>
+    <ResAddress>817 mccabi avi</ResAddress>
+    <City_1>naperville</City_1>
+    <State_1>NY</State_1>
+    <Zip_1>95482</Zip_1>
+    <PhNo_1>2697119868</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Thursday, 07/12/1973</D_Birth>
+    <Height>167</Height>
+    <Weight>167</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Kaid Lashutva</BillingName>
+    <ShipperName>Jeri Ledbetter</ShipperName>
+    <City_2>raleigh</City_2>
+    <State_2>LA</State_2>
+    <Zip_2>20351</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>6751468050</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NOI</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>Yt024_Re3.000</PloicyNo>
+    <D_B_Life_Assure>Thursday, 07/12/1973</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Kaid Lashutva</Name_P_Holder>
+    <STM_Name>Olivia D E Hoyos</STM_Name>
+    <STM_Code>BaX_01acM-7719</STM_Code>
+    <DOB>Thursday, 07/12/1973</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Gas</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$342.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$362.00</TotalAmount>
+    <Remarks>Smoker is Invalid and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Friday, May 19, 2017 4:58:21 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34008</RecordNo>
+    <CustomerName>Kielman Leyden</CustomerName>
+    <EmailAddress>kremom3@juno.com</EmailAddress>
+    <ResAddress>1820 Cloumbia Dr i</ResAddress>
+    <City_1>charleston</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>12478</Zip_1>
+    <PhNo_1>2451743546</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 07/13/1949</D_Birth>
+    <Height>180</Height>
+    <Weight>170</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Kielman Leyden</BillingName>
+    <ShipperName>Creighton Ring</ShipperName>
+    <City_2>Blomfield</City_2>
+    <State_2>CT</State_2>
+    <Zip_2>36621</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>4446912331</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt_i7-Un-6151</PloicyNo>
+    <D_B_Life_Assure>Wednesday, 07/13/1949</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Kielman Leyden</Name_P_Holder>
+    <STM_Name>N.A</STM_Name>
+    <STM_Code>BaX_01acM-2814</STM_Code>
+    <DOB>Wednesday, 07/13/1949</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>N.A</Tablets>
+    <PillRate>$8.57</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>STM Name, Tablets is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Thursday, May 18, 2017 4:58:55 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34008</RecordNo>
+    <CustomerName>Kielman Leyden</CustomerName>
+    <EmailAddress>kremom3@juno.com</EmailAddress>
+    <ResAddress>1820 Cloumbia Dr i</ResAddress>
+    <City_1>charleston</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>12478</Zip_1>
+    <PhNo_1>2451743546</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 07/13/1949</D_Birth>
+    <Height>180</Height>
+    <Weight>170</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Kielman Leyden</BillingName>
+    <ShipperName>Creighton Ring</ShipperName>
+    <City_2>Blomfield</City_2>
+    <State_2>CT</State_2>
+    <Zip_2>36621</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>4446912331</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt_i7-Un-6151</PloicyNo>
+    <D_B_Life_Assure>Wednesday, 07/13/1949</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Kielman Leyden</Name_P_Holder>
+    <STM_Name>N.A</STM_Name>
+    <STM_Code>BaX_01acM-2814</STM_Code>
+    <DOB>Wednesday, 07/13/1949</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>N.A</Tablets>
+    <PillRate>$8.57</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>STM Name, Tablets is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Friday, May 19, 2017 5:34:54 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34009</RecordNo>
+    <CustomerName>Labrune Malkasian</CustomerName>
+    <EmailAddress>elittle@foamex.com</EmailAddress>
+    <ResAddress>2034 Silktassil</ResAddress>
+    <City_1>lubbock</City_1>
+    <State_1>OK</State_1>
+    <Zip_1>76153</Zip_1>
+    <PhNo_1>1625689095</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>N.A</D_Birth>
+    <Height>162</Height>
+    <Weight>168</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Labrune Malkasian</BillingName>
+    <ShipperName>Jeri Rome</ShipperName>
+    <City_2>Lawrence</City_2>
+    <State_2>NY</State_2>
+    <Zip_2>74440</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>6980208804</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>yWzX_092_8249</PloicyNo>
+    <D_B_Life_Assure>Thursday,07/12/1973</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Labrune Malkasian</Name_P_Holder>
+    <STM_Name>Fred C White</STM_Name>
+    <STM_Code>BaX_01aCm-1525</STM_Code>
+    <DOB>Thursday,07/12/1973</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Bank</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.30</PillRate>
+    <Cost>$375.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$395.00</TotalAmount>
+    <Remarks>D_Birth and Allergiesd is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Thursday, May 18, 2017 5:10:55 PM</CreateDate>
+    <UpdateDate>Monday, May 22, 2017 4:58:16 PM</UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34009</RecordNo>
+    <CustomerName>Labrune Malkasian</CustomerName>
+    <EmailAddress>elittle@foamex.com</EmailAddress>
+    <ResAddress>2034 Silktassil</ResAddress>
+    <City_1>lubbock</City_1>
+    <State_1>OK</State_1>
+    <Zip_1>76153</Zip_1>
+    <PhNo_1>1625689095</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>N.A</D_Birth>
+    <Height>162</Height>
+    <Weight>168</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Labrune Malkasian</BillingName>
+    <ShipperName>Jeri Rome</ShipperName>
+    <City_2>Lawrence</City_2>
+    <State_2>NY</State_2>
+    <Zip_2>74440</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>6980208804</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>yWzX_092_8249</PloicyNo>
+    <D_B_Life_Assure>Thursday,07/12/1973</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Labrune Malkasian</Name_P_Holder>
+    <STM_Name>Fred C White</STM_Name>
+    <STM_Code>BaX_01aCm-1525</STM_Code>
+    <DOB>Thursday,07/12/1973</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Bank</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.30</PillRate>
+    <Cost>$375.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$395.00</TotalAmount>
+    <Remarks>D_Birth and Allergiesd is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Friday, May 19, 2017 7:37:08 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34010</RecordNo>
+    <CustomerName>Lingerfelter Mcnellis</CustomerName>
+    <EmailAddress>katetsui@8thmarkham.com</EmailAddress>
+    <ResAddress>21913 RUBY DR</ResAddress>
+    <City_1>Los Angeles</City_1>
+    <State_1>NY</State_1>
+    <Zip_1>45682</Zip_1>
+    <PhNo_1>7071986699</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>Friday, 07/27/1962</D_Birth>
+    <Height>173</Height>
+    <Weight>173</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Lingerfelter Mcnellis</BillingName>
+    <ShipperName>Bob Lamont</ShipperName>
+    <City_2>Gothenburg</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>3633608515</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>yWzX_092_756</PloicyNo>
+    <D_B_Life_Assure>Friday, 07/27/1962</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Lingerfelter Mcnellis</Name_P_Holder>
+    <STM_Name>Dave Meers lii</STM_Name>
+    <STM_Code>BaX_01acM-1744</STM_Code>
+    <DOB>Friday, 07/27/1962</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$5.61</PillRate>
+    <Cost>$218.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$238.00</TotalAmount>
+    <Remarks>Zip_2 is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Thursday, May 18, 2017 5:29:45 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1401.jpeg</ImageName>
+    <RecordNo>34010</RecordNo>
+    <CustomerName>Lingerfelter Mcnellis</CustomerName>
+    <EmailAddress>katetsui@8thmarkham.com</EmailAddress>
+    <ResAddress>21913 RUBY DR</ResAddress>
+    <City_1>Los Angeles</City_1>
+    <State_1>NY</State_1>
+    <Zip_1>45682</Zip_1>
+    <PhNo_1>7071986699</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>Friday, 07/27/1962</D_Birth>
+    <Height>173</Height>
+    <Weight>173</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Lingerfelter Mcnellis</BillingName>
+    <ShipperName>Bob Lamont</ShipperName>
+    <City_2>Gothenburg</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>3633608515</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>yWzX_092_756</PloicyNo>
+    <D_B_Life_Assure>Friday, 07/27/1962</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Lingerfelter Mcnellis</Name_P_Holder>
+    <STM_Name>Dave Meers lii</STM_Name>
+    <STM_Code>BaX_01acM-1744</STM_Code>
+    <DOB>Friday, 07/27/1962</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$5.61</PillRate>
+    <Cost>$218.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$238.00</TotalAmount>
+    <Remarks>Zip_2 is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Friday, May 19, 2017 8:03:00 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34011</RecordNo>
+    <CustomerName>Manus Motayne</CustomerName>
+    <EmailAddress>sandya_byrne47@yahoo.ca</EmailAddress>
+    <ResAddress>1301 Andria Lani</ResAddress>
+    <City_1>Colorado Springs</City_1>
+    <State_1>OH</State_1>
+    <Zip_1>65947</Zip_1>
+    <PhNo_1>9055562126</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday,10/21/1966</D_Birth>
+    <Height>168</Height>
+    <Weight>185</Weight>
+    <Blood_Group>N.A</Blood_Group>
+    <BillingName>Manus Motayne</BillingName>
+    <ShipperName>Dorothy</ShipperName>
+    <City_2>Frederick</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>54550</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>3834755559</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Zc_Bqn_1668</PloicyNo>
+    <D_B_Life_Assure>Friday, 10/21/1966</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Manus Motayne</Name_P_Holder>
+    <STM_Name>Javier Ramos</STM_Name>
+    <STM_Code>BaX_01aCm-4489</STM_Code>
+    <DOB>Friday, 10/21/1966</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>0.25 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.72</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Blood Group is Missing and Email Address and Res Address, STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Friday, May 19, 2017 8:21:34 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34011</RecordNo>
+    <CustomerName>Manus Motayne</CustomerName>
+    <EmailAddress>sandya_byrne47@yahoo.ca</EmailAddress>
+    <ResAddress>1301 Andria Lani</ResAddress>
+    <City_1>Colorado Springs</City_1>
+    <State_1>OH</State_1>
+    <Zip_1>65947</Zip_1>
+    <PhNo_1>9055562126</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday,10/21/1966</D_Birth>
+    <Height>168</Height>
+    <Weight>185</Weight>
+    <Blood_Group>N.A</Blood_Group>
+    <BillingName>Manus Motayne</BillingName>
+    <ShipperName>Dorothy</ShipperName>
+    <City_2>Frederick</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>54550</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>3834755559</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Zc_Bqn_1668</PloicyNo>
+    <D_B_Life_Assure>Friday, 10/21/1966</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Manus Motayne</Name_P_Holder>
+    <STM_Name>Javier Ramos</STM_Name>
+    <STM_Code>BaX_01aCm-4489</STM_Code>
+    <DOB>Friday, 10/21/1966</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>0.25 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.72</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Blood Group is Missing and Email Address and Res Address, STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 2:32:45 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34012</RecordNo>
+    <CustomerName>Chaven Dennert</CustomerName>
+    <EmailAddress>janakoster@yahoo.com</EmailAddress>
+    <ResAddress>2323 S.Arinona Rd.</ResAddress>
+    <City_1>Sapulpa</City_1>
+    <State_1>NV</State_1>
+    <Zip_1>99734</Zip_1>
+    <PhNo_1>6456056677</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>12/13/1951</D_Birth>
+    <Height>165</Height>
+    <Weight>178</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Chaven Dennert</BillingName>
+    <ShipperName>Nura Nelson</ShipperName>
+    <City_2>CHAMBERSBURG</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>94483</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>2250112471</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>RnM-094_1349</PloicyNo>
+    <D_B_Life_Assure>12/13/1951</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Chaven Dennert</Name_P_Holder>
+    <STM_Name>Roger Dobbins</STM_Name>
+    <STM_Code>BaX_01acM-6185</STM_Code>
+    <DOB>12/13/1951</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$355.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$375.00</TotalAmount>
+    <Remarks>STM_Code and DOB, CARD Name and Medicine are Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Friday, May 19, 2017 8:30:02 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34012</RecordNo>
+    <CustomerName>Chaven Dennert</CustomerName>
+    <EmailAddress>janakoster@yahoo.com</EmailAddress>
+    <ResAddress>2323 S.Arinona Rd.</ResAddress>
+    <City_1>Sapulpa</City_1>
+    <State_1>NV</State_1>
+    <Zip_1>99734</Zip_1>
+    <PhNo_1>6456056677</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>12/13/1951</D_Birth>
+    <Height>165</Height>
+    <Weight>178</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Chaven Dennert</BillingName>
+    <ShipperName>Nura Nelson</ShipperName>
+    <City_2>CHAMBERSBURG</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>94483</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>2250112471</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>RnM-094_1349</PloicyNo>
+    <D_B_Life_Assure>12/13/1951</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Chaven Dennert</Name_P_Holder>
+    <STM_Name>Roger Dobbins</STM_Name>
+    <STM_Code>BaX_01acM-6185</STM_Code>
+    <DOB>12/13/1951</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$355.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$375.00</TotalAmount>
+    <Remarks>CARD Name is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 2:40:40 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34013</RecordNo>
+    <CustomerName>Dragos Friede</CustomerName>
+    <EmailAddress>cchm1800@yahoo.com</EmailAddress>
+    <ResAddress>P.O. Box 3450</ResAddress>
+    <City_1>Charleston</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>62478</Zip_1>
+    <PhNo_1>8357068098</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>04/26/1949</D_Birth>
+    <Height>185</Height>
+    <Weight>185</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Dragos Friede</BillingName>
+    <ShipperName>Frank Blacker</ShipperName>
+    <City_2>Bartow</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>36996</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NOI</Allergiesd>
+    <PloicyNo>Yt_i7-Un-1754</PloicyNo>
+    <D_B_Life_Assure>04/26/1949</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Dragos Friede</Name_P_Holder>
+    <STM_Name>Andrew Le Cureaux</STM_Name>
+    <STM_Code>BaX_01aCp_5128</STM_Code>
+    <DOB>04/26/1949</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>OTHER</CardName>
+    <Medicine>DIDREX</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>#DIV/0!</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>PHNo_2 is Missing, Allergiesd and Pill Rate is Invalid and STM_Code and DOB are Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Saturday, May 20, 2017 9:23:13 AM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34013</RecordNo>
+    <CustomerName>Dragos Friede</CustomerName>
+    <EmailAddress>cchm1800@yahoo.com</EmailAddress>
+    <ResAddress>P.O. Box 3450</ResAddress>
+    <City_1>Charleston</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>62478</Zip_1>
+    <PhNo_1>8357068098</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>04/26/1949</D_Birth>
+    <Height>185</Height>
+    <Weight>185</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Dragos Friede</BillingName>
+    <ShipperName>Frank Blacker</ShipperName>
+    <City_2>Bartow</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>36996</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NOi</Allergiesd>
+    <PloicyNo>Yt_i7-Un-1754</PloicyNo>
+    <D_B_Life_Assure>04/26/1949</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Dragon Friede</Name_P_Holder>
+    <STM_Name>Andrew Le Cureaux</STM_Name>
+    <STM_Code>BaX_01aCp_5128</STM_Code>
+    <DOB>04/26/1949</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>OTHER</CardName>
+    <Medicine>DIDREX</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>#DIV/0!</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>PHNo_2 is Missing, Allergiesd is Invalid, STM_2 is Merged and Pill Rate is Invalid.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 2:48:05 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34014</RecordNo>
+    <CustomerName>Falkenthal Goffney</CustomerName>
+    <EmailAddress>rhonda_engram@yahoo.com</EmailAddress>
+    <ResAddress>Wall St</ResAddress>
+    <City_1>Montrose</City_1>
+    <State_1>PA</State_1>
+    <Zip_1>34847</Zip_1>
+    <PhNo_1>4745398263</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday, 10/21/1966</D_Birth>
+    <Height>168</Height>
+    <Weight>168</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Falkenthal Goffney</BillingName>
+    <ShipperName>Ann Vicas</ShipperName>
+    <City_2>Crofton</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>98031</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_4095</PloicyNo>
+    <D_B_Life_Assure>Friday, 10/21/1966</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Falkenthal Goffney</Name_P_Holder>
+    <STM_Name>Douglas Cummings</STM_Name>
+    <STM_Code>BaX_01aCm-8940</STM_Code>
+    <DOB>Friday, 10/21/1966</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>AMBIEN</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.44</PillRate>
+    <Cost>$310.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$330.00</TotalAmount>
+    <Remarks>PHNo_2 is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Saturday, May 20, 2017 11:05:09 AM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34014</RecordNo>
+    <CustomerName>Falkenthal Goffney</CustomerName>
+    <EmailAddress>rhonda_engram@yahoo.com</EmailAddress>
+    <ResAddress>Wall St</ResAddress>
+    <City_1>Montrose</City_1>
+    <State_1>PA</State_1>
+    <Zip_1>34847</Zip_1>
+    <PhNo_1>4745398263</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday, 10/21/1966</D_Birth>
+    <Height>168</Height>
+    <Weight>168</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Falkenthal Goffney</BillingName>
+    <ShipperName>Ann Vicas</ShipperName>
+    <City_2>Crofton</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>98031</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_4095</PloicyNo>
+    <D_B_Life_Assure>Friday, 10/21/1966</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Falkenthal Goffney</Name_P_Holder>
+    <STM_Name>Douglas Cummings</STM_Name>
+    <STM_Code>BaX_01aCm-8940</STM_Code>
+    <DOB>Friday, 10/21/1966</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>AMBIEN</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.44</PillRate>
+    <Cost>$310.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$330.00</TotalAmount>
+    <Remarks>PHNo_2 is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 3:12:28 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34015</RecordNo>
+    <CustomerName>Fusha Haper</CustomerName>
+    <EmailAddress>bigmvpshaq34@aol.com</EmailAddress>
+    <ResAddress>Wall St</ResAddress>
+    <City_1>Montrose</City_1>
+    <State_1>PA</State_1>
+    <Zip_1>34847</Zip_1>
+    <PhNo_1>4745398263</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday, 10/21/1966</D_Birth>
+    <Height>168</Height>
+    <Weight>168</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Fusha Haper</BillingName>
+    <ShipperName>Ann Vicas</ShipperName>
+    <City_2>Crofton</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>98031</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_4095</PloicyNo>
+    <D_B_Life_Assure>Friday, 10/21/1966</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Fusha Haper</Name_P_Holder>
+    <STM_Name>Douglas Cummings</STM_Name>
+    <STM_Code>BaX_01aCm-8904</STM_Code>
+    <DOB>Friday, 10/21/1966</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>AMBIEN</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.44</PillRate>
+    <Cost>$310.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$330.00</TotalAmount>
+    <Remarks>PHNo_2 is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Saturday, May 20, 2017 11:13:09 AM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34015</RecordNo>
+    <CustomerName>Fusha Haper</CustomerName>
+    <EmailAddress>bigmvpshaq34@aol.com</EmailAddress>
+    <ResAddress>Wall St</ResAddress>
+    <City_1>Montrose</City_1>
+    <State_1>PA</State_1>
+    <Zip_1>34847</Zip_1>
+    <PhNo_1>4745398263</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday, 10/21/1966</D_Birth>
+    <Height>168</Height>
+    <Weight>168</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Fusha Haper</BillingName>
+    <ShipperName>Ann Vicas</ShipperName>
+    <City_2>Crofton</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>98031</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_4095</PloicyNo>
+    <D_B_Life_Assure>Friday, 10/21/1966</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Fusha Haper</Name_P_Holder>
+    <STM_Name>Douglas Cummings</STM_Name>
+    <STM_Code>BaX_01aCm-8904</STM_Code>
+    <DOB>Friday, 10/21/1966</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>AMBIEN</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.44</PillRate>
+    <Cost>$310.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$330.00</TotalAmount>
+    <Remarks>PHNo_2 is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 3:35:53 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34016</RecordNo>
+    <CustomerName>Gortman Hollmann</CustomerName>
+    <EmailAddress>irish@forgedesign.com</EmailAddress>
+    <ResAddress>847i co rd 80n</ResAddress>
+    <City_1>PLACENTIA</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>18225</Zip_1>
+    <PhNo_1>5861103320</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Thursday, 01/22/1959</D_Birth>
+    <Height>170</Height>
+    <Weight>167</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Gortman Hollmann</BillingName>
+    <ShipperName>Brenda Jaeger</ShipperName>
+    <City_2>Jonesboro</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>53009</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>794443714</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NE</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Zc_Bqn_1266</PloicyNo>
+    <D_B_Life_Assure>Thursday, 01/22/1959</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Gortman Hollmann</Name_P_Holder>
+    <STM_Name>Ramon O Roman</STM_Name>
+    <STM_Code>liB_01aCN-716</STM_Code>
+    <DOB>Thursday, 01/22/1959</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>VALIUM</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.30</PillRate>
+    <Cost>$310.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$330.00</TotalAmount>
+    <Remarks>Smoker is Invalid.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Saturday, May 20, 2017 11:39:56 AM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34016</RecordNo>
+    <CustomerName>Gortman Hollmann</CustomerName>
+    <EmailAddress>irish@forgedesign.com</EmailAddress>
+    <ResAddress>847i co rd 80n</ResAddress>
+    <City_1>PLACENTIA</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>18225</Zip_1>
+    <PhNo_1>5861103320</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Thursday, 01/22/1959</D_Birth>
+    <Height>170</Height>
+    <Weight>167</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Gortman Hollmann</BillingName>
+    <ShipperName>Brenda Jaeger</ShipperName>
+    <City_2>Jonesboro</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>53009</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>794443714</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NE</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Zc_Bqn_1266</PloicyNo>
+    <D_B_Life_Assure>Thursday, 01/22/1959</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Gortman Hollmann</Name_P_Holder>
+    <STM_Name>Ramon O Roman</STM_Name>
+    <STM_Code>liB_01aCN-716</STM_Code>
+    <DOB>Thursday, 01/22/1959</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>VALIUM</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.30</PillRate>
+    <Cost>$310.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$330.00</TotalAmount>
+    <Remarks>Smoker is Invalid.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 3:47:50 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34017</RecordNo>
+    <CustomerName>Kaighn Lashway</CustomerName>
+    <EmailAddress>pavelkiki@yahoo.com</EmailAddress>
+    <ResAddress>3008 Hiris Way</ResAddress>
+    <City_1>MARION</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>26603</Zip_1>
+    <PhNo_1>1137024545</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Sunday, 03/10/1957</D_Birth>
+    <Height>170</Height>
+    <Weight>172</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Kaighn Lashway</BillingName>
+    <ShipperName>Terry Phillips</ShipperName>
+    <City_2>Bethel</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>87134</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>6388348304</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NOI</Allergiesd>
+    <PloicyNo>FR-DLI09-i1003</PloicyNo>
+    <D_B_Life_Assure>Sunday, 03/10/1957</D_B_Life_Assure>
+    <P_Inst>$200.00</P_Inst>
+    <Name_P_Holder>Kaighn Lashway</Name_P_Holder>
+    <STM_Name>Barbara Sandin</STM_Name>
+    <STM_Code>BaX_01aCp_14880</STM_Code>
+    <DOB>Sunday, 03/10/1957</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$2.85</PillRate>
+    <Cost>$375.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$395.00</TotalAmount>
+    <Remarks>City_1 and State_1, CARD Name and Medicine are Merged, Allergiesd is Invalid.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Saturday, May 20, 2017 11:47:48 AM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34017</RecordNo>
+    <CustomerName>Kaighn Lashway</CustomerName>
+    <EmailAddress>pavelkiki@yahoo.com</EmailAddress>
+    <ResAddress>3008 Hiris Way</ResAddress>
+    <City_1>MARION</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>26603</Zip_1>
+    <PhNo_1>1137024545</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Sunday, 03/10/1957</D_Birth>
+    <Height>170</Height>
+    <Weight>172</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Kaighn Lashway</BillingName>
+    <ShipperName>Terry Phillips</ShipperName>
+    <City_2>Bethel</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>87134</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>6388348304</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NOI</Allergiesd>
+    <PloicyNo>FR-DLI09-i1003</PloicyNo>
+    <D_B_Life_Assure>Sunday, 03/10/1957</D_B_Life_Assure>
+    <P_Inst>$200.00</P_Inst>
+    <Name_P_Holder>Kaighn Lashway</Name_P_Holder>
+    <STM_Name>Barbara Sandin</STM_Name>
+    <STM_Code>BaX_01aCp_14880</STM_Code>
+    <DOB>Sunday, 03/10/1957</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$2.85</PillRate>
+    <Cost>$375.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$395.00</TotalAmount>
+    <Remarks>City_1 and State_1, CARD Name and Medicine are Merged, Allergiesd is Invalid.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 3:58:01 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34018</RecordNo>
+    <CustomerName>Kielty Leyendecker</CustomerName>
+    <EmailAddress>hubbarde@aol.com</EmailAddress>
+    <ResAddress>Wall St</ResAddress>
+    <City_1>Montrose</City_1>
+    <State_1>PA</State_1>
+    <Zip_1>34847</Zip_1>
+    <PhNo_1>4745398263</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday, 10/21/1966</D_Birth>
+    <Height>168</Height>
+    <Weight>168</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Kielty Leyendecker</BillingName>
+    <ShipperName>Ann Vicas</ShipperName>
+    <City_2>Crofton</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>98031</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_4095</PloicyNo>
+    <D_B_Life_Assure>Friday,10/21/1966</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Kielty Leyendecker</Name_P_Holder>
+    <STM_Name>Douglas Cummings</STM_Name>
+    <STM_Code>BaX_01aCm-8940</STM_Code>
+    <DOB>Friday,10/21/1966</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>AMBIEN</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.44</PillRate>
+    <Cost>$310.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$330.00</TotalAmount>
+    <Remarks>PHNo is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Saturday, May 20, 2017 11:58:38 AM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34018</RecordNo>
+    <CustomerName>Kielty Leyendecker</CustomerName>
+    <EmailAddress>hubbarde@aol.com</EmailAddress>
+    <ResAddress>Wall St</ResAddress>
+    <City_1>Montrose</City_1>
+    <State_1>PA</State_1>
+    <Zip_1>34847</Zip_1>
+    <PhNo_1>4745398263</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday, 10/21/1966</D_Birth>
+    <Height>168</Height>
+    <Weight>168</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Kielty Leyendecker</BillingName>
+    <ShipperName>Ann Vicas</ShipperName>
+    <City_2>Crofton</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>98031</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_4095</PloicyNo>
+    <D_B_Life_Assure>Friday,10/21/1966</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Kielty Leyendecker</Name_P_Holder>
+    <STM_Name>Douglas Cummings</STM_Name>
+    <STM_Code>BaX_01aCm-8940</STM_Code>
+    <DOB>Friday,10/21/1966</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>AMBIEN</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.44</PillRate>
+    <Cost>$310.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$330.00</TotalAmount>
+    <Remarks>PHNo is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 4:48:15 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34019</RecordNo>
+    <CustomerName>Labruyere Malkiewicz</CustomerName>
+    <EmailAddress>hofer@zeonchemicals.com</EmailAddress>
+    <ResAddress>P.O. Box 3450</ResAddress>
+    <City_1>Charleston</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>62478</Zip_1>
+    <PhNo_1>835706809</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>04/26/1949</D_Birth>
+    <Height>185</Height>
+    <Weight>185</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Labruyere  Malkiewicz</BillingName>
+    <ShipperName>Frank Blacker</ShipperName>
+    <City_2>Bartow</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>36996</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NOI</Allergiesd>
+    <PloicyNo>Yt_i7-Un-1754</PloicyNo>
+    <D_B_Life_Assure>04/26/1949</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Labruyere Malkiewicz</Name_P_Holder>
+    <STM_Name>Andrew Le Cureaux</STM_Name>
+    <STM_Code>BaX_01aCp_5128</STM_Code>
+    <DOB>04/26/1949</DOB>
+    <Sex_2>MELE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>DIDREX</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>#DIV/0!</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>PHNo_2 is Missing, Sex_2 and Pill Rate is Invalid and STM_Code and DOB are Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Saturday, May 20, 2017 12:12:17 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34019</RecordNo>
+    <CustomerName>Labruyere Malkiewicz</CustomerName>
+    <EmailAddress>hofer@zeonchemicals.com</EmailAddress>
+    <ResAddress>P.O. Box 3450</ResAddress>
+    <City_1>Charleston</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>62478</Zip_1>
+    <PhNo_1>835706809</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>04/26/1949</D_Birth>
+    <Height>185</Height>
+    <Weight>185</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Labruyere  Malkiewicz</BillingName>
+    <ShipperName>Frank Blacker</ShipperName>
+    <City_2>Bartow</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>36996</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NOI</Allergiesd>
+    <PloicyNo>Yt_i7-Un-1754</PloicyNo>
+    <D_B_Life_Assure>04/26/1949</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Labruyere Malkiewicz</Name_P_Holder>
+    <STM_Name>Andrew Le Cureaux</STM_Name>
+    <STM_Code>BaX_01aCp_5128</STM_Code>
+    <DOB>04/26/1949</DOB>
+    <Sex_2>MELE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>DIDREX</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>#DIV/0!</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>PHNo_2 is Missing, Sex_2 and Pill Rate is Invalid and STM_Code and DOB are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 5:00:04 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34020</RecordNo>
+    <CustomerName>Lingg Mcnelly</CustomerName>
+    <EmailAddress>gail.morrow@sympatico.ca</EmailAddress>
+    <ResAddress>6022 Blaisdill Avi</ResAddress>
+    <City_1>SEBRING</City_1>
+    <State_1>PA</State_1>
+    <Zip_1>40054</Zip_1>
+    <PhNo_1>1137024545</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>09/18/1932</D_Birth>
+    <Height>182</Height>
+    <Weight>105</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Lingg Mcnelly</BillingName>
+    <ShipperName>Nura Nelson</ShipperName>
+    <City_2>TAWA LINDSAY</City_2>
+    <State_2>ma</State_2>
+    <Zip_2>85486</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>1557716730</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt_i7-Un-5905</PloicyNo>
+    <D_B_Life_Assure>09/18/1932</D_B_Life_Assure>
+    <P_Inst>$200.00</P_Inst>
+    <Name_P_Holder>Lingg Mcnelly</Name_P_Holder>
+    <STM_Name>Monty Bailey</STM_Name>
+    <STM_Code>BaX_01aCo-595</STM_Code>
+    <DOB>09/18/1932</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.44</PillRate>
+    <Cost>$284.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$304.00</TotalAmount>
+    <Remarks>City_1  and State _1 and Dosage and Tablets is Merged.</Remarks>
+    <UserID>midemo1</UserID>
+    <CreateDate>Saturday, May 20, 2017 12:29:19 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1402.jpeg</ImageName>
+    <RecordNo>34020</RecordNo>
+    <CustomerName>Lingg Mcnelly</CustomerName>
+    <EmailAddress>gail.morrow@sympatico.ca</EmailAddress>
+    <ResAddress>6022 Blaisdill Avi</ResAddress>
+    <City_1>SEBRING</City_1>
+    <State_1>PA</State_1>
+    <Zip_1>40054</Zip_1>
+    <PhNo_1>1137024545</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>09/18/1932</D_Birth>
+    <Height>182</Height>
+    <Weight>105</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Lingg Mcnelly</BillingName>
+    <ShipperName>Nura Nelson</ShipperName>
+    <City_2>TAWA LINDSAY</City_2>
+    <State_2>ma</State_2>
+    <Zip_2>85486</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>1557716730</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt_i7-Un-5905</PloicyNo>
+    <D_B_Life_Assure>09/18/1932</D_B_Life_Assure>
+    <P_Inst>$200.00</P_Inst>
+    <Name_P_Holder>Lingg Mcnelly</Name_P_Holder>
+    <STM_Name>Monty Bailey</STM_Name>
+    <STM_Code>BaX_01aCo-595</STM_Code>
+    <DOB>09/18/1932</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.44</PillRate>
+    <Cost>$284.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$304.00</TotalAmount>
+    <Remarks>City_1  and State _1 and Dosage and Tablets is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 5:10:49 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1403.jpeg</ImageName>
+    <RecordNo>34021</RecordNo>
+    <CustomerName>Manusyants Mote</CustomerName>
+    <EmailAddress>robin@ottawasubaru.com</EmailAddress>
+    <ResAddress>847i co rd 80n</ResAddress>
+    <City_1>PLACENTIA</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>18225</Zip_1>
+    <PhNo_1>5861103320</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Thursday, 01/22/1959</D_Birth>
+    <Height>170</Height>
+    <Weight>167</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Manusyants Mote</BillingName>
+    <ShipperName>Brenda Jaeger</ShipperName>
+    <City_2>Jonesboro</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>53009</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>7944437314</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NE</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Zc_Bqn_1266</PloicyNo>
+    <D_B_Life_Assure>Thursday, 01/22/1959</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Manusyants Mote</Name_P_Holder>
+    <STM_Name>Ramon O Roman</STM_Name>
+    <STM_Code>liB_01aCN-716</STM_Code>
+    <DOB>Thursday, 01/22/1959</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>VALIUM</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.30</PillRate>
+    <Cost>$310.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$330.00</TotalAmount>
+    <Remarks>Email Address and Res Address, Dosage and Tablets is Merged and Smoker are Invalid.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 12:45:52 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1403.jpeg</ImageName>
+    <RecordNo>34022</RecordNo>
+    <CustomerName>Chavera Dennett</CustomerName>
+    <EmailAddress>bevschwarz55@cs.com</EmailAddress>
+    <ResAddress>43143 Corti Montilla</ResAddress>
+    <City_1>FLOVILLA</City_1>
+    <State_1>GA</State_1>
+    <Zip_1>74304</Zip_1>
+    <PhNo_1>9254786094</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>Thursday, 05/31/1962</D_Birth>
+    <Height>170</Height>
+    <Weight>175</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Chevera Dennett</BillingName>
+    <ShipperName>J.Cargas cape</ShipperName>
+    <City_2>coral</City_2>
+    <State_2>MI</State_2>
+    <Zip_2>18047</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>9450425064</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Pi03-Ur_1255</PloicyNo>
+    <D_B_Life_Assure>Thursday, 05/31/1962</D_B_Life_Assure>
+    <P_Inst>$200.00</P_Inst>
+    <Name_P_Holder>Chavera Dennett</Name_P_Holder>
+    <STM_Name>Dorothy Burke</STM_Name>
+    <STM_Code>BaX_01aCo-5945</STM_Code>
+    <DOB>Thursday, 05/31/1962</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Visa</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>180</Tablets>
+    <PillRate>$4.44</PillRate>
+    <Cost>$484.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$504.00</TotalAmount>
+    <Remarks>N.A.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 12:57:06 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1403.jpeg</ImageName>
+    <RecordNo>34023</RecordNo>
+    <CustomerName>Dragotta Friedeck</CustomerName>
+    <EmailAddress>jdmdnautical@wmconnect.com</EmailAddress>
+    <ResAddress>817 mccabi avi</ResAddress>
+    <City_1>Arlington</City_1>
+    <State_1>FL</State_1>
+    <Zip_1>96264</Zip_1>
+    <PhNo_1>8145505370</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Saturday, 09/27/1975</D_Birth>
+    <Height>174</Height>
+    <Weight>170</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Dragotta Friedeck</BillingName>
+    <ShipperName>Bryan Ayers Joanna Ayers</ShipperName>
+    <City_2>haughton</City_2>
+    <State_2>ia</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>N12zXp_583</PloicyNo>
+    <D_B_Life_Assure>Saturday, 09/27/1975</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Dragotta Friedeck</Name_P_Holder>
+    <STM_Name>Peter Nierenberger</STM_Name>
+    <STM_Code>BaX_01aCp_6492</STM_Code>
+    <DOB>Saturday, 09/27/1975</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>DIDREX</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$503.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$523.00</TotalAmount>
+    <Remarks>Zip_2, PHNo_2 and Past Surg are Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 1:07:26 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1403.jpeg</ImageName>
+    <RecordNo>34024</RecordNo>
+    <CustomerName>Falker Goffredo</CustomerName>
+    <EmailAddress>wnirobi@yahoo.com</EmailAddress>
+    <ResAddress>905 il prado</ResAddress>
+    <City_1>MAPLE HEIGHTS</City_1>
+    <State_1>IA</State_1>
+    <Zip_1>87379</Zip_1>
+    <PhNo_1>8163725901</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Thursday, 07/04/1940</D_Birth>
+    <Height>170</Height>
+    <Weight>170</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Falker Goffredo</BillingName>
+    <ShipperName>Carlso Cordova</ShipperName>
+    <City_2>Huntington Bh</City_2>
+    <State_2>PA</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt024_Re1451</PloicyNo>
+    <D_B_Life_Assure>Thursday,07/04/1940</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Falker Goffredo</Name_P_Holder>
+    <STM_Name>Bernard A Jalbert</STM_Name>
+    <STM_Code>BaX_01aCp_8861</STM_Code>
+    <DOB>Thursday, 07/04/1940</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>N.A</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$4.17</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Zip_2, PHNo_2 and Dosage are Missing,</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 1:19:34 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1403.jpeg</ImageName>
+    <RecordNo>34025</RecordNo>
+    <CustomerName>Fushimi Hapgood</CustomerName>
+    <EmailAddress>minanae2@yahoo.com</EmailAddress>
+    <ResAddress>905 il Prado</ResAddress>
+    <City_1>MAPLE HEIGHTS</City_1>
+    <State_1>IA</State_1>
+    <Zip_1>87379</Zip_1>
+    <PhNo_1>8163725901</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Thursday, 07/04/1940</D_Birth>
+    <Height>170</Height>
+    <Weight>170</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Fushimi Hapgood</BillingName>
+    <ShipperName>Corlso Cordova</ShipperName>
+    <City_2>Huntington BH</City_2>
+    <State_2>PA</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt024_Re1451</PloicyNo>
+    <D_B_Life_Assure>Thursday,07/04/1940</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Fushimi Hapgood</Name_P_Holder>
+    <STM_Name>Bernard A Jalbert</STM_Name>
+    <STM_Code>BaX_01aCp_8861</STM_Code>
+    <DOB>Thursday, 07/04/1940</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>N.A</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$4.10</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Zip_2, PHNo_2 and Dosage are Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 1:29:23 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1403.jpeg</ImageName>
+    <RecordNo>34026</RecordNo>
+    <CustomerName>Gorton Hollner</CustomerName>
+    <EmailAddress>wittleangel120898@yahoo.com</EmailAddress>
+    <ResAddress>15200 W. Honiysuckli Lani</ResAddress>
+    <City_1>NEWCASTLE</City_1>
+    <State_1>TX</State_1>
+    <Zip_1>66985</Zip_1>
+    <PhNo_1>6986416861</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>04/07/1955</D_Birth>
+    <Height>165</Height>
+    <Weight>175</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Gorton Hollner</BillingName>
+    <ShipperName>Belia Reveles</ShipperName>
+    <City_2>Homestead</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>22948</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>4463303335</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NOI</Allergiesd>
+    <PloicyNo>yWzX_092_5168</PloicyNo>
+    <D_B_Life_Assure>04/07/1955</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Gorton Hollner</Name_P_Holder>
+    <STM_Name>Bahbah Domanadeh</STM_Name>
+    <STM_Code>BaX_01aCo-8603</STM_Code>
+    <DOB>04/07/1955</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$0.72</PillRate>
+    <Cost>$387.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$407.00</TotalAmount>
+    <Remarks>Allergiesd is Invalid.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 1:45:59 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1403.jpeg</ImageName>
+    <RecordNo>34027</RecordNo>
+    <CustomerName>Kaigle Lasik</CustomerName>
+    <EmailAddress>baypoohbabygurl@yahoo.com</EmailAddress>
+    <ResAddress>60 Lori Lani</ResAddress>
+    <City_1>PLEASANTON</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>41584</Zip_1>
+    <PhNo_1>2256929604</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>Friday, 04/11/1952</D_Birth>
+    <Height>173</Height>
+    <Weight>178</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Kaigle Lasik</BillingName>
+    <ShipperName>Throop</ShipperName>
+    <City_2>REDONDO BEACH</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>78423</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>3654861367</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>RnM-094_1952</PloicyNo>
+    <D_B_Life_Assure>Friday,04/11/1952</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Kaigle Lasik</Name_P_Holder>
+    <STM_Name>Faulkner John G</STM_Name>
+    <STM_Code>BaX_01aCm-2654</STM_Code>
+    <DOB>Friday, 04/11/1952</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Gas</CardName>
+    <Medicine>VALIUM</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$2.86</PillRate>
+    <Cost>$505.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$525.00</TotalAmount>
+    <Remarks>STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 1:52:20 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1403.jpeg</ImageName>
+    <RecordNo>34028</RecordNo>
+    <CustomerName>Kiely Leyh</CustomerName>
+    <EmailAddress>wooshwoosh2005@yahoo.com</EmailAddress>
+    <ResAddress>905 il Prado</ResAddress>
+    <City_1>MAPLE HEIGHTS</City_1>
+    <State_1>IA</State_1>
+    <Zip_1>87379</Zip_1>
+    <PhNo_1>8163725901</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Thursday, 07/04/1940</D_Birth>
+    <Height>170</Height>
+    <Weight>170</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Kiely Leyh</BillingName>
+    <ShipperName>Carlso Cordova</ShipperName>
+    <City_2>Huntington Bh</City_2>
+    <State_2>PA</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt024_Re1451</PloicyNo>
+    <D_B_Life_Assure>Thursday, 07/04/1940</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Kiely Leyh</Name_P_Holder>
+    <STM_Name>Bernard A Jalbert</STM_Name>
+    <STM_Code>BaX_01aCp_8861</STM_Code>
+    <DOB>Thursday, 07/04/1940</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>N.A</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$4.17</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Zip_2, PHNo_2 and Dosage are Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 2:01:07 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1403.jpeg</ImageName>
+    <RecordNo>34029</RecordNo>
+    <CustomerName>Labruzzo Malkin</CustomerName>
+    <EmailAddress>sashaig@hotmail.com</EmailAddress>
+    <ResAddress>817 mccabi avi</ResAddress>
+    <City_1>Arlington</City_1>
+    <State_1>FL</State_1>
+    <Zip_1>96264</Zip_1>
+    <PhNo_1>8145505370</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Saturday, 09/27/1975</D_Birth>
+    <Height>174</Height>
+    <Weight>170</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Labruzzo Malkin</BillingName>
+    <ShipperName>Bryan Ayers</ShipperName>
+    <City_2>haughton</City_2>
+    <State_2>ia</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>N12aXp583</PloicyNo>
+    <D_B_Life_Assure>Saturday, 09/27/1975</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Labruzzo Malkin</Name_P_Holder>
+    <STM_Name>Peter Nierenberger</STM_Name>
+    <STM_Code>BaX_01aCp_6492</STM_Code>
+    <DOB>Saturday, 09/27/1975</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>DIDREX</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$503.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$523.00</TotalAmount>
+    <Remarks>Zip_2 and PHNo_2 is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 2:08:32 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1403.jpeg</ImageName>
+    <RecordNo>34030</RecordNo>
+    <CustomerName>Linginfelter Mcnemar</CustomerName>
+    <EmailAddress>elwick@rogers.com</EmailAddress>
+    <ResAddress>1715 OAK POND COURT</ResAddress>
+    <City_1>6315  3rd Ave. NW</City_1>
+    <State_1>WI</State_1>
+    <Zip_1>84569</Zip_1>
+    <PhNo_1>3684853398</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>12/13/1951</D_Birth>
+    <Height>170</Height>
+    <Weight>162</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Linginfelter Mcnemar</BillingName>
+    <ShipperName>Krista Griffin</ShipperName>
+    <City_2>Sacramento</City_2>
+    <State_2>DE</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>8088371492</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>Yt_i7-Un-10841</PloicyNo>
+    <D_B_Life_Assure>12/13/1951</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Linginfelter Mcnemar</Name_P_Holder>
+    <STM_Name>David Lannon</STM_Name>
+    <STM_Code>BaX_01acM-3921</STM_Code>
+    <DOB>12/13/1951</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>BANK</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$484.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$504.00</TotalAmount>
+    <Remarks>Zip_2 is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 2:17:18 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1404.jpeg</ImageName>
+    <RecordNo>34031</RecordNo>
+    <CustomerName>Manvel Moten</CustomerName>
+    <EmailAddress>rthomas3647@rogers.com</EmailAddress>
+    <ResAddress>15200 W. Honiysuckli Lani</ResAddress>
+    <City_1>NEWCASTLE</City_1>
+    <State_1>TX</State_1>
+    <Zip_1>66985</Zip_1>
+    <PhNo_1>6986416861</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>04/07/1955</D_Birth>
+    <Height>165</Height>
+    <Weight>175</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Manvel Moten</BillingName>
+    <ShipperName>Belia Reveles</ShipperName>
+    <City_2>Homestead</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>22948</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>4463303335</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NOI</Allergiesd>
+    <PloicyNo>yWzX_092_5168</PloicyNo>
+    <D_B_Life_Assure>04/07/1955</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Manvel Moten</Name_P_Holder>
+    <STM_Name>Bahbah Domanadeh</STM_Name>
+    <STM_Code>BaX_01aCo-8603</STM_Code>
+    <DOB>04/07/1955</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$0.72</PillRate>
+    <Cost>$387.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$407.00</TotalAmount>
+    <Remarks>Allergiesd is Invalid.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 5:26:38 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1404.jpeg</ImageName>
+    <RecordNo>34032</RecordNo>
+    <CustomerName>Chavers Denney</CustomerName>
+    <EmailAddress>dfuhrer@epix.net</EmailAddress>
+    <ResAddress>6610 Sharon Road</ResAddress>
+    <City_1>FORT LAUDERDALE</City_1>
+    <State_1>WA</State_1>
+    <Zip_1>80375</Zip_1>
+    <PhNo_1>7559494269</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday, 11/27/1959</D_Birth>
+    <Height>170</Height>
+    <Weight>165</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Chavers Denney</BillingName>
+    <ShipperName>Nura Nelson</ShipperName>
+    <City_2>Mayville</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>76392</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>7257562405</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>Yt_i7-Un-6530</PloicyNo>
+    <D_B_Life_Assure>Friday, 11/27/1959</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Chavers Denney</Name_P_Holder>
+    <STM_Name>Myron G Weeks</STM_Name>
+    <STM_Code>BaX_01aCp_20872</STM_Code>
+    <DOB>Friday,11/27/1959</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>AMBIEN</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$258.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$278.00</TotalAmount>
+    <Remarks>N.A.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 5:35:37 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1404.jpeg</ImageName>
+    <RecordNo>34033</RecordNo>
+    <CustomerName>Dragovich Friedel</CustomerName>
+    <EmailAddress>wenhuang_1998@yahoo.com</EmailAddress>
+    <ResAddress>5814 sandy ridigi dr</ResAddress>
+    <City_1>Ohatchee</City_1>
+    <State_1>CT</State_1>
+    <Zip_1>37718</Zip_1>
+    <PhNo_1>9366761557</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>04/14/1951</D_Birth>
+    <Height>170</Height>
+    <Weight>170</Weight>
+    <Blood_Group>O+</Blood_Group>
+    <BillingName>Dragovich Friedel</BillingName>
+    <ShipperName>David Jones</ShipperName>
+    <City_2>Hazel Park</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>57769</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>8094712851</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>yWzX_092_1071</PloicyNo>
+    <D_B_Life_Assure>04/14/1951</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Dragovich Friedel</Name_P_Holder>
+    <STM_Name>Pat Canter</STM_Name>
+    <STM_Code>BaX_01aCp_18120</STM_Code>
+    <DOB>04/14/1951</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$5.61</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Customer Name and Email Address, Billing Name and Shipper Name are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Saturday, May 20, 2017 5:57:29 PM</CreateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1404.jpeg</ImageName>
+    <RecordNo>34034</RecordNo>
+    <CustomerName>Falkiewicz Gofman</CustomerName>
+    <EmailAddress>bm1@tampabay.rr.com</EmailAddress>
+    <ResAddress>615 i 38th</ResAddress>
+    <City_1>maineville</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>67269</Zip_1>
+    <PhNo_1>4548936698</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>08/15/1943</D_Birth>
+    <Height>175</Height>
+    <Weight>180</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Falkiewicz Gofman</BillingName>
+    <ShipperName>Allen E Currey</ShipperName>
+    <City_2>MenomoneeFalls</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>49871</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>2084586433</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Falkiewicz Gofman</PloicyNo>
+    <D_B_Life_Assure>Kelly Andrist</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Falkiewicz Gofman</Name_P_Holder>
+    <STM_Name>Kelly Andrist</STM_Name>
+    <STM_Code>BaX_01aCm-3388</STM_Code>
+    <DOB>08/15/1943</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>DIDREX</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>N.A</Tablets>
+    <PillRate>$2.85</PillRate>
+    <Cost>$271.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$291.00</TotalAmount>
+    <Remarks>STM_Code and DOB is Merged and Tablets is Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 10:58:13 AM</CreateDate>
+    <UpdateDate>Tuesday, May 23, 2017 11:11:13 AM</UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1404.jpeg</ImageName>
+    <RecordNo>34035</RecordNo>
+    <CustomerName>Fusi Hapke</CustomerName>
+    <EmailAddress>blabla5425@aol.com</EmailAddress>
+    <ResAddress>615 i 38th</ResAddress>
+    <City_1>maineville</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>67269</Zip_1>
+    <PhNo_1>4548936698</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>08/15/1943</D_Birth>
+    <Height>175</Height>
+    <Weight>180</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Fusi Hapke</BillingName>
+    <ShipperName>Allen E Currey</ShipperName>
+    <City_2>MenomoneeFalls</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>49871</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>2084586433</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_1021</PloicyNo>
+    <D_B_Life_Assure>08/15/1943</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Fusi Hapke</Name_P_Holder>
+    <STM_Name>Kelly Andrist</STM_Name>
+    <STM_Code>BaX_01aCm-3388</STM_Code>
+    <DOB>08/15/1943</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>DIDREX</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>N.A</Tablets>
+    <PillRate>$2.85</PillRate>
+    <Cost>$271.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$291.00</TotalAmount>
+    <Remarks>STM_Code and DOB is Merged and Tablets is Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 11:09:50 AM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1404.jpeg</ImageName>
+    <RecordNo>34036</RecordNo>
+    <CustomerName>Gorum Hollo</CustomerName>
+    <EmailAddress>guydarnell@yahoo.com</EmailAddress>
+    <ResAddress>17253 niNA</ResAddress>
+    <City_1>ABILENE</City_1>
+    <State_1>FL</State_1>
+    <Zip_1>54320</Zip_1>
+    <PhNo_1>2575650306</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Monday, 07/18/1955</D_Birth>
+    <Height>160</Height>
+    <Weight>175</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Gorum Hollo</BillingName>
+    <ShipperName>Lisa Battle-Wise</ShipperName>
+    <City_2>Los Angeles</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>78457</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>8107344882</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>RnM-094_4925</PloicyNo>
+    <D_B_Life_Assure>Monday, 07/18/1955</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Gorum Hollo</Name_P_Holder>
+    <STM_Name>Kelly Andrist</STM_Name>
+    <STM_Code>BaX_01aCo-6388</STM_Code>
+    <DOB>Monday, 07/18/1955</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Visa</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>30</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Shipper Name is Invalid.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 11:22:39 AM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1404.jpeg</ImageName>
+    <RecordNo>34037</RecordNo>
+    <CustomerName>Kaigler Lasin</CustomerName>
+    <EmailAddress>calistabernnan@verizon.net</EmailAddress>
+    <ResAddress>1501 Johnson</ResAddress>
+    <City_1>BRANFORD</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>51475</Zip_1>
+    <PhNo_1>5068845564</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Thursday, 05/31/1962</D_Birth>
+    <Height>168</Height>
+    <Weight>168</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Kaigler Lasin</BillingName>
+    <ShipperName>Norman Smith</ShipperName>
+    <City_2>SARASOTA</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>42209</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Zc_Bqn_2053</PloicyNo>
+    <D_B_Life_Assure>Thursday, 05/31/1962</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Kaigler Lasin</Name_P_Holder>
+    <STM_Name>Stephen Davison</STM_Name>
+    <STM_Code>BaX_01aCp_15887</STM_Code>
+    <DOB>Thursday, 05/31/1962</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Visa</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$6.67</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>PHNo_2 is Missing and Dosage and tablets is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 11:30:20 AM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1404.jpeg</ImageName>
+    <RecordNo>34038</RecordNo>
+    <CustomerName>Kienast Leyland</CustomerName>
+    <EmailAddress>eglin8@aol.com</EmailAddress>
+    <ResAddress>615 i 68th</ResAddress>
+    <City_1>maineville</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>87269</Zip_1>
+    <PhNo_1>4558936698</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>08/15/1943</D_Birth>
+    <Height>175</Height>
+    <Weight>180</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Kienast Leyland</BillingName>
+    <ShipperName>Allen E currey</ShipperName>
+    <City_2>MenomoneeFalls</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>49871</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>2084586433</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_1021</PloicyNo>
+    <D_B_Life_Assure>08/15/1943</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Kienast Leyland</Name_P_Holder>
+    <STM_Name>Kelly Andrist</STM_Name>
+    <STM_Code>BaX_01aCm-3388</STM_Code>
+    <DOB>08/15/1943</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>DIDREX</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>N.A</Tablets>
+    <PillRate>$2.85</PillRate>
+    <Cost>$271.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$291.00</TotalAmount>
+    <Remarks>STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 11:43:21 AM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1404.jpeg</ImageName>
+    <RecordNo>34039</RecordNo>
+    <CustomerName>Labs Malkoski</CustomerName>
+    <EmailAddress>bjhayes@ee.net</EmailAddress>
+    <ResAddress>5814 sandy ridgi dr</ResAddress>
+    <City_1>Ohatchee</City_1>
+    <State_1>CT</State_1>
+    <Zip_1>37718</Zip_1>
+    <PhNo_1>9366761557</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>04/14/1951</D_Birth>
+    <Height>170</Height>
+    <Weight>170</Weight>
+    <Blood_Group>O+</Blood_Group>
+    <BillingName>Labs Malkoski</BillingName>
+    <ShipperName>David Jones</ShipperName>
+    <City_2>Hazel Park</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>57769</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>8094712851</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>yWzX_01aCp_18120</PloicyNo>
+    <D_B_Life_Assure>04/14/1951</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Labs Malkoski</Name_P_Holder>
+    <STM_Name>Pat Canter</STM_Name>
+    <STM_Code>BaX_01aCp_18120</STM_Code>
+    <DOB>04/14/1951</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$5.61</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>N.A.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 11:52:23 AM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1404.jpeg</ImageName>
+    <RecordNo>34040</RecordNo>
+    <CustomerName>Lingle Mcneme</CustomerName>
+    <EmailAddress>mike_d_125@icloud.com</EmailAddress>
+    <ResAddress>1604 Piach Striit</ResAddress>
+    <City_1>Elk Grove</City_1>
+    <State_1>WV</State_1>
+    <Zip_1>51626</Zip_1>
+    <PhNo_1>7093435621</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALER</Sex_1>
+    <D_Birth>Thursday, 07/12/1973</D_Birth>
+    <Height>178</Height>
+    <Weight>170</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Lingle Mcneme</BillingName>
+    <ShipperName>Christine Flesch</ShipperName>
+    <City_2>SALIDA</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>83079</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>6994231559</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_7514</PloicyNo>
+    <D_B_Life_Assure>Thursday, 07/12/1973</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Lingle Mcneme</Name_P_Holder>
+    <STM_Name>Ezekiel Rodriguez</STM_Name>
+    <STM_Code>BaX_01aCo-6972</STM_Code>
+    <DOB>Thursday, 07/12/1973</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>LORAZEPAM</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$2.86</PillRate>
+    <Cost>$400.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$420.00</TotalAmount>
+    <Remarks>N.A.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 12:00:05 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1405.jpeg</ImageName>
+    <RecordNo>34041</RecordNo>
+    <CustomerName>Manvelito Motes</CustomerName>
+    <EmailAddress>motornut@hotmail.com</EmailAddress>
+    <ResAddress>17253 niNA</ResAddress>
+    <City_1>ABILENE</City_1>
+    <State_1>FL</State_1>
+    <Zip_1>54320</Zip_1>
+    <PhNo_1>2575650306</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Monday, 07/18/1955</D_Birth>
+    <Height>160</Height>
+    <Weight>175</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Manvelito Motes</BillingName>
+    <ShipperName> Lisa Battle-Wise</ShipperName>
+    <City_2>Los Angeles</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>78457</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>8107344882</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>RnM-094_4925</PloicyNo>
+    <D_B_Life_Assure>Monday, 07/18/1955</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Manvelito Motes</Name_P_Holder>
+    <STM_Name>Kelly Andrist</STM_Name>
+    <STM_Code>BaX_01aCo-6388</STM_Code>
+    <DOB>Monday, 07/18/1955</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Visa</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>30</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Shipper Name is Invalid.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 12:06:11 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1405.jpeg</ImageName>
+    <RecordNo>34042</RecordNo>
+    <CustomerName>Chaves Denni</CustomerName>
+    <EmailAddress>jawacker@cnasurety.com</EmailAddress>
+    <ResAddress>16836 40th avi.s.</ResAddress>
+    <City_1>Youngsville</City_1>
+    <State_1>NY</State_1>
+    <Zip_1>54967</Zip_1>
+    <PhNo_1>1219342284</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>09/30/1959</D_Birth>
+    <Height>180</Height>
+    <Weight>160</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Chaves Denni</BillingName>
+    <ShipperName>Daniel Truckle</ShipperName>
+    <City_2>San Diego</City_2>
+    <State_2>MO</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>7304047382</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>Yt_i7Un-8563</PloicyNo>
+    <D_B_Life_Assure>N.A</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Chaves Denni</Name_P_Holder>
+    <STM_Name>Neil Jones Sr</STM_Name>
+    <STM_Code>BaX_01aCp_11253</STM_Code>
+    <DOB>09/30/1959</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$2.87</PillRate>
+    <Cost>$375.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$395.00</TotalAmount>
+    <Remarks>Zip_2, Allergiesd and D_B_Life_Assure are Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 12:14:16 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1405.jpeg</ImageName>
+    <RecordNo>34043</RecordNo>
+    <CustomerName>Dragt Frieden</CustomerName>
+    <EmailAddress>sjfrancois@yahoo.com</EmailAddress>
+    <ResAddress>11208 Covirid Bridgi Road</ResAddress>
+    <City_1>SANTRA CLARA</City_1>
+    <State_1>PA</State_1>
+    <Zip_1>29573</Zip_1>
+    <PhNo_1>8838717923</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Monday, 07/18/1955</D_Birth>
+    <Height>167</Height>
+    <Weight>180</Weight>
+    <Blood_Group>N.A</Blood_Group>
+    <BillingName>Dragt Frieden</BillingName>
+    <ShipperName>Sally Altig</ShipperName>
+    <City_2>LOS ANGELES</City_2>
+    <State_2>DE</State_2>
+    <Zip_2>7161</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>Zc_Bqn_2122</PloicyNo>
+    <D_B_Life_Assure>Monday,07/18/1955</D_B_Life_Assure>
+    <P_Inst>$100.00</P_Inst>
+    <Name_P_Holder>Dragt Frieden</Name_P_Holder>
+    <STM_Name>Roy Jones</STM_Name>
+    <STM_Code>BaX_01aCm-5608</STM_Code>
+    <DOB>Monday, 07/18/1955</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$3.44</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>Blood Group and PHNo_2 is Missing, Zip_2 is Invalid and STM_Code and DOB are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 12:24:22 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1405.jpeg</ImageName>
+    <RecordNo>34044</RecordNo>
+    <CustomerName>Falkner Goforth</CustomerName>
+    <EmailAddress>dllevan@peoplepc.com</EmailAddress>
+    <ResAddress>180 Impirial</ResAddress>
+    <City_1>WASHINGTON</City_1>
+    <State_1>FL</State_1>
+    <Zip_1>35487</Zip_1>
+    <PhNo_1>9254786049</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Monday, 07/08/1946</D_Birth>
+    <Height>162</Height>
+    <Weight>183</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Falkner Goforth</BillingName>
+    <ShipperName>Melvyn Frumes</ShipperName>
+    <City_2>Flushing</City_2>
+    <State_2>NC</State_2>
+    <Zip_2>37960</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>7495203377</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>ZtA09vB43</PloicyNo>
+    <D_B_Life_Assure>Monday, 07/08/1946</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Falkner Goforth</Name_P_Holder>
+    <STM_Name>Jeremiah Kerneen</STM_Name>
+    <STM_Code>BaX_01aCm-9662</STM_Code>
+    <DOB>Monday, 07/08/1946</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Visa</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$2.86</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>Allergiesd is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 12:43:26 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1405.jpeg</ImageName>
+    <RecordNo>34045</RecordNo>
+    <CustomerName>Fusik Happ</CustomerName>
+    <EmailAddress>belloalej@hotmail.com</EmailAddress>
+    <ResAddress>180 Imperial</ResAddress>
+    <City_1>WASHINGTON</City_1>
+    <State_1>FL</State_1>
+    <Zip_1>35487</Zip_1>
+    <PhNo_1>9254786049</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Monday, 07/08/1946</D_Birth>
+    <Height>162</Height>
+    <Weight>183</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Fusik Happ</BillingName>
+    <ShipperName>Melvyn Frumes</ShipperName>
+    <City_2>Flushing</City_2>
+    <State_2>NC</State_2>
+    <Zip_2>37960</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>7495203377</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>ZtA09vB43</PloicyNo>
+    <D_B_Life_Assure>Monday, 07/08/1946</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Fusik Happ</Name_P_Holder>
+    <STM_Name>Jeremiah Kerneen</STM_Name>
+    <STM_Code>BaX_01aCm-9662</STM_Code>
+    <DOB>Monday, 07/08/1946</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Visa</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>9</Tablets>
+    <PillRate>$2.86</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>Allergiesd is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 12:51:22 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1405.jpeg</ImageName>
+    <RecordNo>34046</RecordNo>
+    <CustomerName>Gory Hollobaugh</CustomerName>
+    <EmailAddress>jeanettesperber@mysmtpmail.com</EmailAddress>
+    <ResAddress>2512 Briirs North Drivi</ResAddress>
+    <City_1>WAYNESBORO</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>71562</Zip_1>
+    <PhNo_1>8438386731</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>12/13/1951</D_Birth>
+    <Height>168</Height>
+    <Weight>170</Weight>
+    <Blood_Group>A++</Blood_Group>
+    <BillingName>Gory Hollobaugh</BillingName>
+    <ShipperName>Christine Douchette</ShipperName>
+    <City_2>Lancaster</City_2>
+    <State_2>OR</State_2>
+    <Zip_2>13358</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_3110</PloicyNo>
+    <D_B_Life_Assure>12/13/1951</D_B_Life_Assure>
+    <P_Inst>#250.00</P_Inst>
+    <Name_P_Holder>Gory Hollobaugh</Name_P_Holder>
+    <STM_Name>Michael Gambrell</STM_Name>
+    <STM_Code>BaX_01aCp_22265</STM_Code>
+    <DOB>12/13/1951</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>VALIUM</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$387.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$407.00</TotalAmount>
+    <Remarks>Blood Group is Invalid, PHNo_ is Missing and CARD Name and Medicine are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 1:14:50 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1405.jpeg</ImageName>
+    <RecordNo>34047</RecordNo>
+    <CustomerName>Kaiktsian Lasiter</CustomerName>
+    <EmailAddress>hwmful@wowway.com</EmailAddress>
+    <ResAddress>529th st Eagle</ResAddress>
+    <City_1>Mountain</City_1>
+    <State_1>MI</State_1>
+    <Zip_1>N.A</Zip_1>
+    <PhNo_1>5950881548</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>ALE</Sex_1>
+    <D_Birth>Saturday, 04/09/1955</D_Birth>
+    <Height>174</Height>
+    <Weight>182</Weight>
+    <Blood_Group>O+</Blood_Group>
+    <BillingName>Kaiktsian Lasiter</BillingName>
+    <ShipperName>Connie L Reichert</ShipperName>
+    <City_2>knoxville</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>31883</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>ZtA09vB158</PloicyNo>
+    <D_B_Life_Assure>Saturday, 04/09/1955</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Kaiktsian Lasiter</Name_P_Holder>
+    <STM_Name>Pam Shaw</STM_Name>
+    <STM_Code>BaX_01aCm-3343</STM_Code>
+    <DOB>Saturday, 04/09/1955</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>CLONAZAPAM</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Zip_1 and PHNo_2 is Missing and City_2 and State_2, STM_Code and DOB are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 1:23:55 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1405.jpeg</ImageName>
+    <RecordNo>34048</RecordNo>
+    <CustomerName>Kienbaum Leymeister</CustomerName>
+    <EmailAddress>wolff@wekz.net</EmailAddress>
+    <ResAddress>180 Imperial</ResAddress>
+    <City_1>WASHINGTON</City_1>
+    <State_1>FL</State_1>
+    <Zip_1>35487</Zip_1>
+    <PhNo_1>9254786049</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Monday, 07/08/1946</D_Birth>
+    <Height>162</Height>
+    <Weight>172</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Kienbaum Leymeister</BillingName>
+    <ShipperName>Melvyn Frumes</ShipperName>
+    <City_2>Flushing</City_2>
+    <State_2>NC</State_2>
+    <Zip_2>37960</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>7495203377</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>ZtA09vB43</PloicyNo>
+    <D_B_Life_Assure>Monday, 07/08/1946</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Kienbaum Leymeister</Name_P_Holder>
+    <STM_Name>Jeremiah Kerneen</STM_Name>
+    <STM_Code>BaX_01aCm-9662</STM_Code>
+    <DOB>Monday, 07/08/1946</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Visa</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$2.86</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>Allergiesd is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 1:28:54 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1405.jpeg</ImageName>
+    <RecordNo>34049</RecordNo>
+    <CustomerName>Labuda Malkowski</CustomerName>
+    <EmailAddress>lcgq135400@ltd.glalobar.com</EmailAddress>
+    <ResAddress>11208 Covirid Bridgi Road</ResAddress>
+    <City_1>SANTA CLARA</City_1>
+    <State_1>PA</State_1>
+    <Zip_1>29573</Zip_1>
+    <PhNo_1>8838717923</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Monday, 07/18/1955</D_Birth>
+    <Height>167</Height>
+    <Weight>180</Weight>
+    <Blood_Group>N.A</Blood_Group>
+    <BillingName>Labuda Malkowski</BillingName>
+    <ShipperName>Sally Altig</ShipperName>
+    <City_2>LOS ANGELES</City_2>
+    <State_2>DE</State_2>
+    <Zip_2>7161</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>Zc_Bqn_2122</PloicyNo>
+    <D_B_Life_Assure>Monday, 07/18/1955</D_B_Life_Assure>
+    <P_Inst>$100.00</P_Inst>
+    <Name_P_Holder>Labuda Malkowski</Name_P_Holder>
+    <STM_Name>Roy jones</STM_Name>
+    <STM_Code>BaX_01aCm-56O8</STM_Code>
+    <DOB>Monday, 07/18/1955</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$3.44</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>Zip_2 is Invalid, PhNo_2 and Allergiesd is Missing and STM_Code and DOB are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 1:34:16 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1405.jpeg</ImageName>
+    <RecordNo>34050</RecordNo>
+    <CustomerName>Lingley Mcnerney</CustomerName>
+    <EmailAddress>david.mountain@yhwscouts.ca</EmailAddress>
+    <ResAddress>6912 HWY 437</ResAddress>
+    <City_1>inglewood</City_1>
+    <State_1>LA</State_1>
+    <Zip_1>83492</Zip_1>
+    <PhNo_1>N.A</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>09/18/1932</D_Birth>
+    <Height>187</Height>
+    <Weight>168</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Lingley Mcnerney</BillingName>
+    <ShipperName>Coreen Trost</ShipperName>
+    <City_2>Compton</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>85750092778</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>RnM-094_3288</PloicyNo>
+    <D_B_Life_Assure>09/18/1932</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Lingley Mcnerney</Name_P_Holder>
+    <STM_Name>Pat Canter</STM_Name>
+    <STM_Code>BaX_01aCm-829</STM_Code>
+    <DOB>N.A</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>CLONAZAPAM</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>Customer Name and Email Address, Billing Name and Shipper Name, Dosage and Tablets are Merged, PhNo_1, Zip_2 and DOB are Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 1:41:46 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1406.jpeg</ImageName>
+    <RecordNo>34051</RecordNo>
+    <CustomerName>Manvelyan Mothershead</CustomerName>
+    <EmailAddress>arnprior@eastsidemarios.com</EmailAddress>
+    <ResAddress>2512 Briirs North Drivi</ResAddress>
+    <City_1>WAYNESBORO</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>71562</Zip_1>
+    <PhNo_1>8438386731</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>12/13/1951</D_Birth>
+    <Height>168</Height>
+    <Weight>170</Weight>
+    <Blood_Group>A++</Blood_Group>
+    <BillingName>Manvelyan Mothershead</BillingName>
+    <ShipperName>Christine Douchette</ShipperName>
+    <City_2>Lancaster</City_2>
+    <State_2>OR</State_2>
+    <Zip_2>13358</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_3110</PloicyNo>
+    <D_B_Life_Assure>12/13/1951</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Manvelyan Mothershead</Name_P_Holder>
+    <STM_Name>Michael Gambrell</STM_Name>
+    <STM_Code>BaX_01aCp_22265</STM_Code>
+    <DOB>12/13/1951</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>VALIUM</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$387.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$407.00</TotalAmount>
+    <Remarks>Blood Group is Invalid, PHNo_2 is Missing and CARD Name and Medicine are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 7:03:46 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1406.jpeg</ImageName>
+    <RecordNo>34052</RecordNo>
+    <CustomerName>Chavez Dennie</CustomerName>
+    <EmailAddress>mekofatboy@yahoo.com</EmailAddress>
+    <ResAddress>668 North Main Striit</ResAddress>
+    <City_1>bremerton</City_1>
+    <State_1>TX</State_1>
+    <Zip_1>12058</Zip_1>
+    <PhNo_1>5747908545</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Saturday, 04/01/1950</D_Birth>
+    <Height>182</Height>
+    <Weight>170</Weight>
+    <Blood_Group>B+</Blood_Group>
+    <BillingName>Chavez Dennie</BillingName>
+    <ShipperName>Lisa Marie Estrada</ShipperName>
+    <City_2>Garland</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>31929</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>8200219862</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>N.A</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>FR-DLI09_i1109</PloicyNo>
+    <D_B_Life_Assure>Saturday, 04/01/1950</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Chavez Dennie</Name_P_Holder>
+    <STM_Name>Anthony Pendergrass</STM_Name>
+    <STM_Code>BaX_01aCm-9054</STM_Code>
+    <DOB>Saturday, 04/01/1950</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Bank</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$5.38</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>Diabetic and Allergiesd is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 7:11:49 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1406.jpeg</ImageName>
+    <RecordNo>34053</RecordNo>
+    <CustomerName>Dragula Friedenberg</CustomerName>
+    <EmailAddress>jackyelsmith@fewpb.net</EmailAddress>
+    <ResAddress>346 Minki Rd.</ResAddress>
+    <City_1>detroit</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>68771</Zip_1>
+    <PhNo_1>6071856321</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Thursday, 01/22/1959</D_Birth>
+    <Height>173</Height>
+    <Weight>190</Weight>
+    <Blood_Group>O+</Blood_Group>
+    <BillingName>Dragula Friedenberg</BillingName>
+    <ShipperName>Denise M Bryan</ShipperName>
+    <City_2>Riverside</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>97688</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>RnMP094_2619</PloicyNo>
+    <D_B_Life_Assure>Thursday, 01/22/1959</D_B_Life_Assure>
+    <P_Inst>N.A</P_Inst>
+    <Name_P_Holder>Dragula Friedenberg</Name_P_Holder>
+    <STM_Name>Napoleon Canalita</STM_Name>
+    <STM_Code>BaX_01acM-5415</STM_Code>
+    <DOB>N.A</DOB>
+    <Sex_2>N.A</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$387.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$407.00</TotalAmount>
+    <Remarks>PHNo_2, P_Inst, DOB and Sex_2 are Missing and STM_Code and DOB, CARD Name and Medicine are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 7:19:38 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1406.jpeg</ImageName>
+    <RecordNo>34054</RecordNo>
+    <CustomerName>Falknor Gofton</CustomerName>
+    <EmailAddress>whizkid@usgo.net</EmailAddress>
+    <ResAddress>5806 Galloway Drivi</ResAddress>
+    <City_1>Odessa</City_1>
+    <State_1>CT</State_1>
+    <Zip_1>30789</Zip_1>
+    <PhNo_1>6207105628</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>04/26/1949</D_Birth>
+    <Height>171</Height>
+    <Weight>162</Weight>
+    <Blood_Group>A PLUS</Blood_Group>
+    <BillingName>Falknor Gofton</BillingName>
+    <ShipperName>Nordhoff Jan</ShipperName>
+    <City_2>Gainesville</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>32416</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>9517693265</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>N.A</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>N12aXp357</PloicyNo>
+    <D_B_Life_Assure>04/26/1949</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Falknor Gofton</Name_P_Holder>
+    <STM_Name>Michael Stanton</STM_Name>
+    <STM_Code>BaX_01aCo-4831</STM_Code>
+    <DOB>04/26/1949</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>VALIUM</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.94</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Blood Group is Invalid, Past Surg is Missing and CARD Name and Medicine, Dosage and Tablets are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 7:27:12 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1406.jpeg</ImageName>
+    <RecordNo>34055</RecordNo>
+    <CustomerName>Fusilier Happe</CustomerName>
+    <EmailAddress>notenoughdaysinc@hotmail.com</EmailAddress>
+    <ResAddress>5806 Galloway Drivi</ResAddress>
+    <City_1>Odessa</City_1>
+    <State_1>CT</State_1>
+    <Zip_1>30789</Zip_1>
+    <PhNo_1>6207105628</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>04/26/1949</D_Birth>
+    <Height>171</Height>
+    <Weight>162</Weight>
+    <Blood_Group>A PLUS</Blood_Group>
+    <BillingName>Fusilier Happe</BillingName>
+    <ShipperName>Nordhoff Jan</ShipperName>
+    <City_2>Gainesville</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>32416</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>9517693265</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>N.A</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>N12aXp357</PloicyNo>
+    <D_B_Life_Assure>04/26/1949</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Fusilier Happe</Name_P_Holder>
+    <STM_Name>Michael Stanton</STM_Name>
+    <STM_Code>BaX_01aCo-4831</STM_Code>
+    <DOB>04/26/1949</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>VALIUM</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.94</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Blood Group is Invalid, Past Surg is Missing and CARD Name and Medicine are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 7:32:45 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1406.jpeg</ImageName>
+    <RecordNo>34056</RecordNo>
+    <CustomerName>Gorychka Holloman</CustomerName>
+    <EmailAddress>rocketman1928@hotmail.com</EmailAddress>
+    <ResAddress>444 CASANOVA AVi</ResAddress>
+    <City_1>fall river</City_1>
+    <State_1>MI</State_1>
+    <Zip_1>38944</Zip_1>
+    <PhNo_1>2918476383</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>09/30/1959</D_Birth>
+    <Height>173</Height>
+    <Weight>182</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Gorychka Holloman</BillingName>
+    <ShipperName>Chris Duffy</ShipperName>
+    <City_2>SAN DIEGO</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>60469</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>Gz-09_OPxt3454</PloicyNo>
+    <D_B_Life_Assure>09/30/1959</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Gorychka Holloman</Name_P_Holder>
+    <STM_Name>Miller Stanley A</STM_Name>
+    <STM_Code>BaX_01aCp_21386</STM_Code>
+    <DOB>N.A</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Bank</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$2.87</PillRate>
+    <Cost>$284.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$304.00</TotalAmount>
+    <Remarks>PHNo_2 and DOB is Missing,</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 7:40:06 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1406.jpeg</ImageName>
+    <RecordNo>34057</RecordNo>
+    <CustomerName>Kail Lask</CustomerName>
+    <EmailAddress>hghg@jkhk.com</EmailAddress>
+    <ResAddress>12936 Whitihorsi Ln.</ResAddress>
+    <City_1>CANOGA PARK</City_1>
+    <State_1>NV</State_1>
+    <Zip_1>56214</Zip_1>
+    <PhNo_1>2538090196</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 08/13/1958</D_Birth>
+    <Height>178</Height>
+    <Weight>185</Weight>
+    <Blood_Group>N.A</Blood_Group>
+    <BillingName>Kail Lask</BillingName>
+    <ShipperName>Jon Reynolds</ShipperName>
+    <City_2>PALM DESERT</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>yWzX_092_1071</PloicyNo>
+    <D_B_Life_Assure>Wednesday, 08/13/1958</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Kail Lask</Name_P_Holder>
+    <STM_Name>David L Browne</STM_Name>
+    <STM_Code>BaX_01acM-8264</STM_Code>
+    <DOB>Wednesday, 08/13/1958</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$4.28</PillRate>
+    <Cost>$165.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$185.00</TotalAmount>
+    <Remarks>Blood Group, Zip_2 and PHNo_2 are Missing and Billing Name and Shipper Name, STM_Code and DOB are Merged. </Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 7:48:31 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1406.jpeg</ImageName>
+    <RecordNo>34058</RecordNo>
+    <CustomerName>Kiener Leynes</CustomerName>
+    <EmailAddress>ashleyreevesc21@yahoo.com</EmailAddress>
+    <ResAddress>5806 Galloway Drivi</ResAddress>
+    <City_1>Odessa</City_1>
+    <State_1>CT</State_1>
+    <Zip_1>30789</Zip_1>
+    <PhNo_1>6207105628</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>04/26/1949</D_Birth>
+    <Height>171</Height>
+    <Weight>162</Weight>
+    <Blood_Group>A PLUS</Blood_Group>
+    <BillingName>Kiener Leynes</BillingName>
+    <ShipperName>Nordhoff Jan</ShipperName>
+    <City_2>Gainesville</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>32416</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>04/26/1949</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>N12aXp357</PloicyNo>
+    <D_B_Life_Assure>04/26/1949</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Kiener Leynes</Name_P_Holder>
+    <STM_Name>Michael Stanton</STM_Name>
+    <STM_Code>BaX_01aCo-4831</STM_Code>
+    <DOB>04/26/1949</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>VALIUM</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.94</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>Blood group is Invalid, Allergiesd is Missing and CARD Name and Medicine, Dosage and Tablets are Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 7:54:41 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1406.jpeg</ImageName>
+    <RecordNo>34059</RecordNo>
+    <CustomerName>Labuff Mall</CustomerName>
+    <EmailAddress>bean5669@sbcglobal.net</EmailAddress>
+    <ResAddress>346 Minki Rd.</ResAddress>
+    <City_1>detroit</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>68771</Zip_1>
+    <PhNo_1>6071856321</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Thursday, 01/22/1959</D_Birth>
+    <Height>173</Height>
+    <Weight>190</Weight>
+    <Blood_Group>O+</Blood_Group>
+    <BillingName>Labuff Mall</BillingName>
+    <ShipperName>Denise M Bryan</ShipperName>
+    <City_2>Riverside</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>97688</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>RnM-094_2616</PloicyNo>
+    <D_B_Life_Assure>Thursday, 01/22/1959</D_B_Life_Assure>
+    <P_Inst>N.A</P_Inst>
+    <Name_P_Holder>Labuff Mall</Name_P_Holder>
+    <STM_Name>Napolean Canalita</STM_Name>
+    <STM_Code>BaX_01acM-5415</STM_Code>
+    <DOB>Thursday, 01/22/1959</DOB>
+    <Sex_2>N.A</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$387.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$407.00</TotalAmount>
+    <Remarks>PHNo_2, P_Inst and Sex_2 are Missing and STM_Code and DOB, CARD Name and Medicine, Dosage and Tablets are Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 8:02:04 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1406.jpeg</ImageName>
+    <RecordNo>34060</RecordNo>
+    <CustomerName>Lingner Mcnertney</CustomerName>
+    <EmailAddress>albertcspang@yahoo.ca</EmailAddress>
+    <ResAddress>PO BOX 4375</ResAddress>
+    <City_1>ZEBULON</City_1>
+    <State_1>CA</State_1>
+    <Zip_1>94248</Zip_1>
+    <PhNo_1>1827264205</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 08/13/1958</D_Birth>
+    <Height>180</Height>
+    <Weight>167</Weight>
+    <Blood_Group>O+</Blood_Group>
+    <BillingName>Linger Mcnertney</BillingName>
+    <ShipperName>Kimberly Deardeuff</ShipperName>
+    <City_2>Safety Habor</City_2>
+    <State_2>NY</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>6845251068</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>FR-DLI09_i1334</PloicyNo>
+    <D_B_Life_Assure>Wednesday, 08/13/1958</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Linger Mcnertney</Name_P_Holder>
+    <STM_Name>Anthony Fontana</STM_Name>
+    <STM_Code>N.A</STM_Code>
+    <DOB>Wednesday, 08/13/1958</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$505.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$525.00</TotalAmount>
+    <Remarks>Zip_2 and STM_Code is Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Tuesday, May 23, 2017 8:10:32 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1407.jpeg</ImageName>
+    <RecordNo>34061</RecordNo>
+    <CustomerName>Manville Mothershed</CustomerName>
+    <EmailAddress>stores@ottawajaguarclub.com</EmailAddress>
+    <ResAddress>444 CASANOVA AVi</ResAddress>
+    <City_1>fall river </City_1>
+    <State_1>MI</State_1>
+    <Zip_1>38944</Zip_1>
+    <PhNo_1>2918476383</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>09/30/1959</D_Birth>
+    <Height>173</Height>
+    <Weight>182</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Manville Mothershed</BillingName>
+    <ShipperName>Chris Duffy</ShipperName>
+    <City_2>SAN DIEGO</City_2>
+    <State_2>FL</State_2>
+    <Zip_2>60469</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>Gz-09_OPxt3454</PloicyNo>
+    <D_B_Life_Assure>09/30/1959</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Manville Mothershed</Name_P_Holder>
+    <STM_Name>Miller Stanley A</STM_Name>
+    <STM_Code>BaX_01aCp_21386</STM_Code>
+    <DOB>09/30/1959</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Bank</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>1 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$2.87</PillRate>
+    <Cost>$284.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$304.00</TotalAmount>
+    <Remarks>PHNo_2 is Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Wednesday, May 24, 2017 1:30:22 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1407.jpeg</ImageName>
+    <RecordNo>34062</RecordNo>
+    <CustomerName>Chaviano Dennies</CustomerName>
+    <EmailAddress>sooyeon1025@hotmail.com</EmailAddress>
+    <ResAddress>11217 main striit</ResAddress>
+    <City_1>ALBANY</City_1>
+    <State_1>TX</State_1>
+    <Zip_1>74456</Zip_1>
+    <PhNo_1>9799845893</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>N.A</D_Birth>
+    <Height>187</Height>
+    <Weight>170</Weight>
+    <Blood_Group>N.A</Blood_Group>
+    <BillingName>Chaviano Dennies</BillingName>
+    <ShipperName>Hope Alfieri</ShipperName>
+    <City_2>Culver City</City_2>
+    <State_2>NY</State_2>
+    <Zip_2>N.A</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>6845251068</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Qa_iyZ3189</PloicyNo>
+    <D_B_Life_Assure>Sunday, 05/22/1955</D_B_Life_Assure>
+    <P_Inst>$200.00</P_Inst>
+    <Name_P_Holder>Chaviano Dennies</Name_P_Holder>
+    <STM_Name>Jeffery Rotondo</STM_Name>
+    <STM_Code>BaX_01aCo-7284</STM_Code>
+    <DOB>Sunday, 05/22/1955</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Discover</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>$200.00</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.07</PillRate>
+    <Cost>$310.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$330.00</TotalAmount>
+    <Remarks>D_Birth, Blood Group and Zip_2 is Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Wednesday, May 24, 2017 1:46:23 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1407.jpeg</ImageName>
+    <RecordNo>34063</RecordNo>
+    <CustomerName>Dragun Friedenthal</CustomerName>
+    <EmailAddress>bige4711@aol.com</EmailAddress>
+    <ResAddress>707 i Lincoln St</ResAddress>
+    <City_1>PLS VRDS PNSL</City_1>
+    <State_1>TX</State_1>
+    <Zip_1>14938</Zip_1>
+    <PhNo_1>6007845908</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>N.A</D_Birth>
+    <Height>198</Height>
+    <Weight>168</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Dragun Friedenthal</BillingName>
+    <ShipperName>Alves Nick</ShipperName>
+    <City_2>Cleveland</City_2>
+    <State_2>NY</State_2>
+    <Zip_2>19798</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>2038729836</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt024_Re1473</PloicyNo>
+    <D_B_Life_Assure>06/18/1961</D_B_Life_Assure>
+    <P_Inst>$200.00</P_Inst>
+    <Name_P_Holder>Dragun Friedenthal</Name_P_Holder>
+    <STM_Name>Philip Vada Ehling</STM_Name>
+    <STM_Code>N.A</STM_Code>
+    <DOB>06/18/1961</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>2.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$2.85</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>D_Birth and STM_Code is Missing and CARD Name and Medicine is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Wednesday, May 24, 2017 1:52:02 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1407.jpeg</ImageName>
+    <RecordNo>34064</RecordNo>
+    <CustomerName>Falkowski Goga</CustomerName>
+    <EmailAddress>wilkponyfarm@nbi.com</EmailAddress>
+    <ResAddress>1134 S. Mustang Avi.</ResAddress>
+    <City_1>albany</City_1>
+    <State_1>FL</State_1>
+    <Zip_1>62736</Zip_1>
+    <PhNo_1>8287897258</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>Tuesday, 01/03/1961</D_Birth>
+    <Height>182</Height>
+    <Weight>182</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Falkowski Goga</BillingName>
+    <ShipperName>Francis Richard W</ShipperName>
+    <City_2>Torrance</City_2>
+    <State_2>MD</State_2>
+    <Zip_2>24606</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>5342989935</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>N12aXp143</PloicyNo>
+    <D_B_Life_Assure>N.A</D_B_Life_Assure>
+    <P_Inst>$100.00</P_Inst>
+    <Name_P_Holder>Falkowski Goga</Name_P_Holder>
+    <STM_Name>Bonifacia Pereira</STM_Name>
+    <STM_Code>BaX_01acM-7154</STM_Code>
+    <DOB>Tuesday, 01/03/1961</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Bank</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.17</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>Allergiesd and D_B_Life_Assure is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Wednesday, May 24, 2017 2:01:08 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1407.jpeg</ImageName>
+    <RecordNo>34065</RecordNo>
+    <CustomerName>Fusillo Happel</CustomerName>
+    <EmailAddress>sweetylasmileyangel@hotmail.com</EmailAddress>
+    <ResAddress>1134 S. Mustang Avi.</ResAddress>
+    <City_1>albany</City_1>
+    <State_1>FL</State_1>
+    <Zip_1>62736</Zip_1>
+    <PhNo_1>8287897258</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>Tuesday, 01/03/1961</D_Birth>
+    <Height>182</Height>
+    <Weight>182</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Fusillo Happel</BillingName>
+    <ShipperName>Francis Richard W</ShipperName>
+    <City_2>Torrance</City_2>
+    <State_2>MD</State_2>
+    <Zip_2>24606</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>53429899635</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>N12aXp143</PloicyNo>
+    <D_B_Life_Assure>N.A</D_B_Life_Assure>
+    <P_Inst>$100.00</P_Inst>
+    <Name_P_Holder>Fusillo Happel</Name_P_Holder>
+    <STM_Name>Bonifacia Pereira</STM_Name>
+    <STM_Code>BaX_01acM-7154</STM_Code>
+    <DOB>Tuesday, 01/03/7154</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Bank</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.17</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>Allergiesd and D_B_Life_Assure is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Wednesday, May 24, 2017 2:07:59 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1407.jpeg</ImageName>
+    <RecordNo>34066</RecordNo>
+    <CustomerName>Gors Hollomon</CustomerName>
+    <EmailAddress>rgojohnny@wmconnect.com</EmailAddress>
+    <ResAddress>11245 NW 17th Court Road</ResAddress>
+    <City_1>SAN MARINO</City_1>
+    <State_1>MI</State_1>
+    <Zip_1>63348</Zip_1>
+    <PhNo_1>2019777079</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 06/26/1957</D_Birth>
+    <Height>170</Height>
+    <Weight>172</Weight>
+    <Blood_Group>O+</Blood_Group>
+    <BillingName>Gorz Hollomon</BillingName>
+    <ShipperName>Carl E Wheeler</ShipperName>
+    <City_2>MILPITAS</City_2>
+    <State_2>TX</State_2>
+    <Zip_2>39827</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>1438052496</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>YES</Allergiesd>
+    <PloicyNo>RnM-094_931</PloicyNo>
+    <D_B_Life_Assure>Wednesday, 06/26/1957</D_B_Life_Assure>
+    <P_Inst>$150.00</P_Inst>
+    <Name_P_Holder>Gorz Hollomon</Name_P_Holder>
+    <STM_Name>Thomas L. Hardesty</STM_Name>
+    <STM_Code>BaX_01acM-3028</STM_Code>
+    <DOB>Wednesday, 06/26/1957</DOB>
+    <Sex_2>MALES</Sex_2>
+    <CardName>Other</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>37.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$258.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$278.00</TotalAmount>
+    <Remarks>SeX\x_2 is Invalid and STM_Code and DOB, Dosage and tablets is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Wednesday, May 24, 2017 2:17:10 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1407.jpeg</ImageName>
+    <RecordNo>34067</RecordNo>
+    <CustomerName>Kailey Laska</CustomerName>
+    <EmailAddress>hams@centurytel.net</EmailAddress>
+    <ResAddress>9815 Goldirod Dr</ResAddress>
+    <City_1>NAPLES</City_1>
+    <State_1>LA</State_1>
+    <Zip_1>45706</Zip_1>
+    <PhNo_1>6029752583</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Wednesday, 08/13/1958</D_Birth>
+    <Height>167</Height>
+    <Weight>172</Weight>
+    <Blood_Group>N.A</Blood_Group>
+    <BillingName>Kailey Laska</BillingName>
+    <ShipperName>Stella B Craig</ShipperName>
+    <City_2>MARTINEZ</City_2>
+    <State_2>MI</State_2>
+    <Zip_2>18318</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>9842756097</PhNo_2>
+    <Alcoholic>YES</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>YES</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt_i7-Un-456</PloicyNo>
+    <D_B_Life_Assure>N.A</D_B_Life_Assure>
+    <P_Inst>$300.00</P_Inst>
+    <Name_P_Holder>Kailey Laska</Name_P_Holder>
+    <STM_Name>Peter Kim</STM_Name>
+    <STM_Code>BaX_01aCp_17021</STM_Code>
+    <DOB>Wednesday, 08/13/1958</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>Retail</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>10 MG</Dosage>
+    <Tablets>60</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$130.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$150.00</TotalAmount>
+    <Remarks>Res Address and City_1 is Merged and Blood Group, Allergiesd and D_B_Life_Assure is Missing.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Wednesday, May 24, 2017 2:23:57 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1407.jpeg</ImageName>
+    <RecordNo>34068</RecordNo>
+    <CustomerName>Kiening Leyra</CustomerName>
+    <EmailAddress>henry2die@aim.com</EmailAddress>
+    <ResAddress>1134 S. Mustang Avi.</ResAddress>
+    <City_1>albany</City_1>
+    <State_1>FL</State_1>
+    <Zip_1>62736</Zip_1>
+    <PhNo_1>8287897258</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>Tuesday, 01/03/1961</D_Birth>
+    <Height>182</Height>
+    <Weight>182</Weight>
+    <Blood_Group>A+</Blood_Group>
+    <BillingName>Kiening Leyra</BillingName>
+    <ShipperName>Francis Richard W</ShipperName>
+    <City_2>Torrance</City_2>
+    <State_2>MD</State_2>
+    <Zip_2>24606</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>5342989935</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>YES</Diabetic>
+    <Allergiesd>N.A</Allergiesd>
+    <PloicyNo>N12aXp143</PloicyNo>
+    <D_B_Life_Assure>N.A</D_B_Life_Assure>
+    <P_Inst>$100.00</P_Inst>
+    <Name_P_Holder>Kiening Leyra</Name_P_Holder>
+    <STM_Name>Bonifacia Pereira</STM_Name>
+    <STM_Code>BaX_01acM-7154</STM_Code>
+    <DOB>Tuesday, 01/03/1961</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>Bank</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>2 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$4.17</PillRate>
+    <Cost>$257.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$277.00</TotalAmount>
+    <Remarks>Allergiesd and D_B_Life_Assure is Missing and STM_Code and DOB is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Wednesday, May 24, 2017 2:29:11 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1407.jpeg</ImageName>
+    <RecordNo>34069</RecordNo>
+    <CustomerName>Lacaille Malla</CustomerName>
+    <EmailAddress>abrodeur@reallivingtitle.com</EmailAddress>
+    <ResAddress>707 i Lincoln St</ResAddress>
+    <City_1>PLS VRDS PNSL</City_1>
+    <State_1>TX</State_1>
+    <Zip_1>14938</Zip_1>
+    <PhNo_1>6007845908</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>MALE</Sex_1>
+    <D_Birth>N.A</D_Birth>
+    <Height>168</Height>
+    <Weight>168</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Lacaille Malla</BillingName>
+    <ShipperName>Alves Nick</ShipperName>
+    <City_2>Cleveland</City_2>
+    <State_2>NY</State_2>
+    <Zip_2>19798</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>2038729836</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>NO</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt024_Re1473</PloicyNo>
+    <D_B_Life_Assure>06/18/1961</D_B_Life_Assure>
+    <P_Inst>$200.00</P_Inst>
+    <Name_P_Holder>Lacaille Malla</Name_P_Holder>
+    <STM_Name>Philip Vada Ehling</STM_Name>
+    <STM_Code>N.A</STM_Code>
+    <DOB>06/18/1961</DOB>
+    <Sex_2>MALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>XANAX</Medicine>
+    <Dosage>2.5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$2.85</PillRate>
+    <Cost>$171.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$191.00</TotalAmount>
+    <Remarks>D_Birth and STM_Code is Missing and CARD Name and Medicine is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Wednesday, May 24, 2017 2:37:58 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+  <DataM>
+    <ImageName>1407.jpeg</ImageName>
+    <RecordNo>34070</RecordNo>
+    <CustomerName>Lingo Mcnespey</CustomerName>
+    <EmailAddress>peterkchow@rogers.com</EmailAddress>
+    <ResAddress>1817 Country Viiw Rd</ResAddress>
+    <City_1>DRACUT</City_1>
+    <State_1>UT</State_1>
+    <Zip_1>N.A</Zip_1>
+    <PhNo_1>1276035231</PhNo_1>
+    <Country_1>US</Country_1>
+    <Sex_1>FEMALE</Sex_1>
+    <D_Birth>Friday, 05/06/1960</D_Birth>
+    <Height>165</Height>
+    <Weight>180</Weight>
+    <Blood_Group>AB+</Blood_Group>
+    <BillingName>Lingo Mcnespey</BillingName>
+    <ShipperName>Aesook</ShipperName>
+    <City_2>Chester</City_2>
+    <State_2>CA</State_2>
+    <Zip_2>78423</Zip_2>
+    <Country_2>US</Country_2>
+    <PhNo_2>N.A</PhNo_2>
+    <Alcoholic>NO</Alcoholic>
+    <Smoker>YES</Smoker>
+    <PastSug>NO</PastSug>
+    <Diabetic>NO</Diabetic>
+    <Allergiesd>NO</Allergiesd>
+    <PloicyNo>Yt024_Re2005</PloicyNo>
+    <D_B_Life_Assure>Friday, 05/06/1960</D_B_Life_Assure>
+    <P_Inst>$250.00</P_Inst>
+    <Name_P_Holder>Lingo Mcnespey</Name_P_Holder>
+    <STM_Name>Terry Mayhew</STM_Name>
+    <STM_Code>BaX_01aCp_26353</STM_Code>
+    <DOB>Friday, 05/06/1960</DOB>
+    <Sex_2>FEMALE</Sex_2>
+    <CardName>American Express</CardName>
+    <Medicine>PHENTERMINE</Medicine>
+    <Dosage>5 MG</Dosage>
+    <Tablets>90</Tablets>
+    <PillRate>$1.90</PillRate>
+    <Cost>$355.00</Cost>
+    <ShippingCost>$20.00</ShippingCost>
+    <TotalAmount>$375.00</TotalAmount>
+    <Remarks>Zip_1 and PHNo_2 is Missing and CARD Name and Medicine is Merged.</Remarks>
+    <UserID>ethos_user5</UserID>
+    <CreateDate>Wednesday, May 24, 2017 2:50:33 PM</CreateDate>
+    <UpdateDate>
+    </UpdateDate>
+  </DataM>
+</doc>
