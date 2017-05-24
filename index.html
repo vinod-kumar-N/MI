@@ -16,7 +16,7 @@
           </div>
           <div>
               <label for="">Customer Name</label>
-              <input type="text" id="custName" onkeyup="preFill(this)">
+              <input type="text" id="custName" class="custName" onkeyup="preFill(this)">
           </div>
           <div>
               <label for="">Email Address</label>
@@ -40,7 +40,7 @@
           </div>
            <div>
               <label for="">PhNo_1</label>
-              <input type="text" id="PhNo_1">
+              <input type="text" id="PhNo_1" class="PhNo_1" onkeyup="preFill(this)">
           </div>
           <div>
               <label for="">Country_1</label>
@@ -48,11 +48,11 @@
           </div>
           <div>
               <label for="">Sex_1</label>
-              <input type="text" id="Sex_1">
+              <input type="text" id="Sex_1" class="Sex_1" onkeyup="preFill(this)">
           </div>
           <div>
               <label for="">D_Birth</label>
-              <input type="text" id="D_Birth">
+              <input type="text" id="D_Birth" class="D_Birth" onkeyup="preFill(this)">
           </div>
           <div>
               <label for="">Height</label>
@@ -172,7 +172,7 @@
           </div>
           <div>
               <label for="">Shipping Cost</label>
-              <input type="text" id="ShipCost">
+              <input type="text" id="ShipCost" value="$20.00">
           </div>
           <div>
               <label for="">Total Amount</label>
@@ -185,8 +185,15 @@
           <p>
             <button id="createXML">Create XML</button>
           </p>
-          
+          <input type="file" onchange="onFileSelected(event)">
       </form>
+      <iframe id="image" src="" frameborder="0">
+<img src="" alt="">
+
+      </iframe>
+      <div>
+          
+      </div>
       <script src="js/main.js"></script>
   </body>
 </html>

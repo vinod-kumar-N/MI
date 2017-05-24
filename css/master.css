@@ -53,3 +53,9 @@ table {
 p{
     margin: 10px;
 }
+#custName,#BillName,#Name_P{
+    text-transform: capitalize;
+}
+#email{
+    text-overflow: lowercase;
+}

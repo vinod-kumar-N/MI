@@ -1,9 +1,11 @@
+
 $(document).ready(function(){
     $('#createXML').on('click', function(e){
         e.preventDefault();
         var getRecordNo = $('#recordNo').val();
         var xmlVersion = '<?xml version="1.0" encoding="UTF-8"?>';
-        var textFile = new Blob([xmlVersion,getRecordNo], {
+        var RCNo = '<recordNo>'+ getRecordNo+'</recordNo>'
+        var textFile = new Blob([xmlVersion,RCNo], {
             type: 'text/plain'
         });
         invokeSaveAsDialog(textFile, getRecordNo+'.xml');
@@ -59,6 +61,29 @@ $(document).ready(function(){
 }
 preFill = function(a){
     var that = a;
-    $('#BillName').val($(that).val())
+    if($(that).hasClass('custName')){
+        $('#BillName').val($(that).val());
+        $('#Name_P').val($(that).val());
+    } else if($(that).hasClass('PhNo_1')){
+        $('#PhNo_2').val($(that).val())
+    } else if($(that).hasClass('Sex_1')){
+         $('#Sex_2').val($(that).val())
+    } else if($(that).hasClass('D_Birth')){
+        $('#DOB').val($(that).val());
+        $('#D_B_Life').val($(that).val());
+    }
+    
+}
+
+
+
+
+onFileSelected = function(event) {
+  var selectedFile = event.target.files[0];
+  var reader = new FileReader();
+  var aa = event.target.result
+
+  reader.readAsDataURL(selectedFile);
+  $("#image").attr('src','C:/Users/24507/Pictures/'+selectedFile.name)
 }
 });
