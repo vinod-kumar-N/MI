@@ -136,6 +136,6 @@ onFileSelected = function(event) {
   var aa = event.target.result
 
   reader.readAsDataURL(selectedFile);
-  $("#image").attr('src','C:/Users/24507/Pictures/'+selectedFile.name)
+  $("#image").attr('src','C:/Users/user/Pictures/2014-11'+selectedFile.name)
 }
 });
