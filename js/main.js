@@ -2,6 +2,9 @@
 $(document).ready(function(){
     $('#createXML').on('click', function(e){
         e.preventDefault();
+        var userName = $('#userName').val();
+        var getImageName = $('.imageContainer img').attr('src');
+        var finalImgName = (getImageName.split("/")[1]);
         var getRecordNo = $('#recordNo').val();
         var CustomerName = $('#custName').val();
         var EmailAddress = $('#email').val();
@@ -46,7 +49,17 @@ $(document).ready(function(){
         var TAa = $('#TA').val();
         var remarks = $('#remarks').val();
         var date =  new Date().toString();
-        var RCNo = '<DataM>\n<ImageName></ImageName>\n'+'<RecordNo>'+ getRecordNo+'</RecordNo>\n<CustomerName>'+CustomerName+'</CustomerName>\n<EmailAddress>'+EmailAddress+
+        var day = getDay();
+        Date.prototype.monthName = function() {
+            return this.toUTCString().split(' ')[2]
+        };
+        d = new Date();
+        var month = d.monthName();
+        var Pday = d.getDate() ;
+        var year = d.getFullYear();
+        var time = new Date();
+        time = time.toLocaleString('en-US', { hour: 'numeric',minute:'numeric',second:'numeric', hour12: true });   
+        var RCNo = '<DataM>\n<ImageName>'+finalImgName+'</ImageName>\n'+'<RecordNo>'+ getRecordNo+'</RecordNo>\n<CustomerName>'+CustomerName+'</CustomerName>\n<EmailAddress>'+EmailAddress+
         '</EmailAddress>\n<ResAddress>'+resAdd+'</ResAddress>\n<City_1>'+City_1+'</City_1>\n<State_1>'+State_1+'</State_1>\n<Zip_1>'+Zip_1+'</Zip_1>\n<PhNo_1>'+PhNo_1+
         '</PhNo_1>\n<Country_1>'+Country_1+'</Country_1>\n<Sex_1>'+Sex_1+'</Sex_1>\n<D_Birth>'+D_Birth+'</D_Birth>\n<Height>'+height+'</Height>\n<Weight>'+weight+
         '</Weight>\n<Blood_Group>'+BldG+'</Blood_Group>\n<BillingName>'+BillName+'</BillingName>\n<ShipperName>'+ShipName+'</ShipperName>\n<City_2>'+City_2+
@@ -56,12 +69,27 @@ $(document).ready(function(){
         '</Name_P_Holder>\n<STM_Name>'+STMa+'</STM_Name>\n<STM_Code>'+STM_Code+'</STM_Code>\n<DOB>'+DOBa+'</DOB>\n<Sex_2>'+Sex_2+'</Sex_2>\n<CardName>'+CNa+
         '</CardName>\n<Medicine>'+Medicine+'</Medicine>\n<Dosage>'+Dosage+'</Dosage>\n<Tablets>'+Tablets+'</Tablets>\n<PillRate>$'+pillRate+
         '</PillRate>\n<Cost>$'+Cost+'</Cost>\n<ShippingCost>$'+ShipCost+'</ShippingCost>\n<TotalAmount>$'+TAa+'</TotalAmount>\n<Remarks>'+remarks+
-        '</Remarks><UserID>ethos_user5</UserID><CreateDate>'+date+'</CreateDate><UpdateDate></UpdateDate> </DataM>'
+        '</Remarks>\n<UserID>'+userName+'</UserID>\n<CreateDate>'+day+', '+month+' '+Pday+', '+year+' '+time+'</CreateDate>\n<UpdateDate></UpdateDate>\n</DataM>'
         var textFile = new Blob([RCNo], {
             type: 'text/plain'
         });
         invokeSaveAsDialog(textFile, getRecordNo+'.xml');
     })
+
+    function getDay() {
+        var d = new Date();
+        var weekday = new Array(7);
+        weekday[0] = "Sunday";
+        weekday[1] = "Monday";
+        weekday[2] = "Tuesday";
+        weekday[3] = "Wednesday";
+        weekday[4] = "Thursday";
+        weekday[5] = "Friday";
+        weekday[6] = "Saturday";
+
+        var n = weekday[d.getDay()];
+        return n;
+    }
     function invokeSaveAsDialog(file, fileName) {
     if (!file) {
         throw 'Blob object is required.';
