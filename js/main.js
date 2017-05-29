@@ -151,13 +151,8 @@ preFill = function(a){
     } else if($(that).hasClass('D_Birth')){
         $('#DOB').val($(that).val());
         $('#D_B_Life').val($(that).val());
-    }
-
+    } 
 }
-
-
-
-
 onFileSelected = function(event) {
   var selectedFile = event.target.files[0];
   var reader = new FileReader();
@@ -166,4 +161,19 @@ onFileSelected = function(event) {
   reader.readAsDataURL(selectedFile);
   $("#image").attr('src','C:/Users/user/Pictures/2014-11'+selectedFile.name)
 }
+
+$('.MI input').on('keyup',function(){
+  if ($(this).val() == 'N.A'){
+    $(this).addClass('yellow');
+  } else if($(this).hasClass('commonAddicts')){
+      if($(this).val() == 'NO' || $(this).val() == 'YES'){
+         $(this).removeClass('red');
+      } else{
+            $(this).addClass('red');
+      }
+  }else{
+    $(this).removeClass('yellow');
+  }
+})
+
 });

@@ -64,3 +64,9 @@ p{
     overflow-y: scroll;
     width: 900px;
 }
+.yellow{
+background: yellow;
+}
+.red{
+	background: #FA8072;
+}
