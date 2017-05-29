@@ -153,14 +153,6 @@ preFill = function(a){
         $('#D_B_Life').val($(that).val());
     } 
 }
-onFileSelected = function(event) {
-  var selectedFile = event.target.files[0];
-  var reader = new FileReader();
-  var aa = event.target.result
-
-  reader.readAsDataURL(selectedFile);
-  $("#image").attr('src','C:/Users/user/Pictures/2014-11'+selectedFile.name)
-}
 
 $('.MI input').on('keyup',function(){
   if ($(this).val() == 'N.A'){
@@ -176,4 +168,19 @@ $('.MI input').on('keyup',function(){
   }
 })
 
+function handleFileSelect(evt) {
+    var files = evt.target.files; // FileList object
+
+    // files is a FileList of File objects. List some properties.
+    var output = [];
+    var image;
+    for (var i = 0, f; f = files[i]; i++) {
+      output.push('<li><strong>', escape(f.name), '</strong></li>');
+      image = f.name;
+    }
+    document.getElementById('list').innerHTML = '<ul>' + output.join('') + '</ul>';
+    $('.imageContainer img').attr('src','images/'+image);
+  }
+
+  document.getElementById('files').addEventListener('change', handleFileSelect, false);
 });
