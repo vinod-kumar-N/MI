@@ -75,7 +75,7 @@ background: yellow;
 	display: none;
 }
 .inputOut{
-	float: right;
+	float: left;
 }
 .inputOut textarea{
 	width: 500px;

@@ -156,7 +156,7 @@ preFill = function(a){
     } 
 }
 
-$('.MI input').on('keyup',function(){
+$('.MI input').on('keyup',function(e){
   if ($(this).val() == 'N.A'){
     $(this).addClass('yellow');
   } else if($(this).hasClass('commonAddicts')){
@@ -165,9 +165,13 @@ $('.MI input').on('keyup',function(){
       } else{
             $(this).addClass('red');
       }
-  }else{
+  } else if($(this).attr('id') == "email"){
+      $(this).val($(this).val().toLowerCase());
+    }else{
     $(this).removeClass('yellow');
   }
+
+  $(this).val($(this).val().trim());
 })
 
 function handleFileSelect(evt) {
