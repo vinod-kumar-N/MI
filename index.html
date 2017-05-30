@@ -13,7 +13,7 @@
               <label for="">Customer Name</label>
               <input type="text" id="userName" class="userName" value="ethos_user5" disabled>
           </div>
-      <form action="" class="MI">
+      <form action="" class="MI" autocomplete="on">
           <div>
               <label for="">Record No</label>
               <input type="text" id="recordNo">
@@ -190,12 +190,19 @@
             <button id="createXML">Create XML</button>
           </p>
       </form>
-      <input type="file" id="files" name="files[]" multiple />
-      <div></div>
+      
         <output id="list"></output>
-      <div class="imageContainer">
-          <img src="images/1.jpeg" alt="">
-      </div>
+        <div class="commonContainer">
+            <div class="dataContainer">
+                    <input type="file"  onchange="fileSelect(event)" value="Choose Text File"/>
+                    <p></p>
+            </div>
+                <div class="imageContainer">
+                    <img src="images/1.jpeg" alt="">
+                    
+                </div>
+                <input type="file" id="files" name="files[]" multiple />
+        </div>
       <div class="inputOut">
                 <textarea class="js-copytextarea" name="" id="" cols="30" rows="10"></textarea>
                 <p>

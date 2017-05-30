@@ -67,8 +67,8 @@ $(document).ready(function(){
         '</Alcoholic>\n<Smoker>'+Smoker+'</Smoker>\n<PastSug>'+PastS+'</PastSug>\n<Diabetic>'+Diabetic+'</Diabetic>\n<Allergiesd>'+Allergiesd+
         '</Allergiesd>\n<PloicyNo>'+policyNo+'</PloicyNo>\n<D_B_Life_Assure>'+D_B_Life+'</D_B_Life_Assure>\n<P_Inst>'+P_Inst+'</P_Inst>\n<Name_P_Holder>'+Name_P+
         '</Name_P_Holder>\n<STM_Name>'+STMa+'</STM_Name>\n<STM_Code>'+STM_Code+'</STM_Code>\n<DOB>'+DOBa+'</DOB>\n<Sex_2>'+Sex_2+'</Sex_2>\n<CardName>'+CNa+
-        '</CardName>\n<Medicine>'+Medicine+'</Medicine>\n<Dosage>'+Dosage+'</Dosage>\n<Tablets>'+Tablets+'</Tablets>\n<PillRate>$'+pillRate+
-        '</PillRate>\n<Cost>$'+Cost+'</Cost>\n<ShippingCost>$'+ShipCost+'</ShippingCost>\n<TotalAmount>$'+TAa+'</TotalAmount>\n<Remarks>'+remarks+
+        '</CardName>\n<Medicine>'+Medicine+'</Medicine>\n<Dosage>'+Dosage+'</Dosage>\n<Tablets>'+Tablets+'</Tablets>\n<PillRate>'+pillRate+
+        '</PillRate>\n<Cost>'+Cost+'</Cost>\n<ShippingCost>'+ShipCost+'</ShippingCost>\n<TotalAmount>'+TAa+'</TotalAmount>\n<Remarks>'+remarks+
         '</Remarks>\n<UserID>'+userName+'</UserID>\n<CreateDate>'+day+', '+month+' '+Pday+', '+year+' '+time+'</CreateDate>\n<UpdateDate></UpdateDate>\n</DataM>'
         var textFile = new Blob([RCNo], {
             type: 'text/plain'
@@ -171,7 +171,7 @@ $('.MI input').on('keyup',function(e){
     $(this).removeClass('yellow');
   }
 
-  $(this).val($(this).val().trim());
+ // $(this).val($(this).val().trim());
 })
 
 function handleFileSelect(evt) {
@@ -187,7 +187,29 @@ function handleFileSelect(evt) {
     document.getElementById('list').innerHTML = '<ul>' + output.join('') + '</ul>';
     $('.imageContainer img').attr('src','images/'+image);
   }
-
+ fileSelect = function(e){
+    var url = 'images/rawdata/'+e.target.files[0].name;
+        $.ajax({
+        method: "POST",
+        url: url,
+        }).done(function( msg ) {
+        $('.dataContainer p').html(msg);
+            var sample = msg.split(" ");
+            //var dataArray = Array.from(msg);
+            console.log('This is the data', sample);
+            $('#recordNo').val(sample[0]);
+            var length =  parseInt(sample.length-1);
+            console.log(length);
+            $('#TA').val(sample[length-1]);
+            $('#ShipCost').val(sample[length-2]);
+            $('#Cost').val(sample[length-3]);
+            $('#pillRate').val(sample[length-4]);
+            $('#Tablets').val(sample[length-5]);
+            $('#Dosage').val(sample[length-7] +' '+sample[length-6]);
+            $('#Medicine').val(sample[length-8]);
+        });
+  
+}
   document.getElementById('files').addEventListener('change', handleFileSelect, false);
 
 
@@ -206,4 +228,5 @@ copyTextareaBtn.addEventListener('click', function(event) {
     console.log('Oops, unable to copy');
   }
 });
+
 });

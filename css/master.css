@@ -42,7 +42,7 @@ table {
 	border-spacing: 0;
 }
 .MI div{
-    padding: 15px;
+    padding: 2px;
     border: 1px solid #ccc;
     display: inline-block;
 }
@@ -59,24 +59,38 @@ p{
 #email{
     text-overflow: lowercase;
 }
-.imageContainer{
-	height: 200px;
+.commonContainer{
+float: left;
+}
+.dataContainer{
+height:100px;
+width: 800px;
+border: 1px solid;
+}
+.dataContainer p{
+height: 59px;
     overflow-y: scroll;
-    width: 900px;
-	float: left;
+    line-height: 1.2;
+   
+}
+.imageContainer{
+height: 130px;
+    overflow-y: scroll;
+    width: 800px;
+   border: 1px solid;
 }
 .yellow{
 background: yellow;
 }
 .red{
-	background: #FA8072;
+background: #FA8072;
 }
 #list{
-	display: none;
+display: none;
 }
 .inputOut{
-	float: left;
+float: left;
 }
 .inputOut textarea{
-	width: 500px;
+width: 500px;
 }
