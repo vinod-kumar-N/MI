@@ -58,7 +58,7 @@ $(document).ready(function(){
         var Pday = d.getDate() ;
         var year = d.getFullYear();
         var time = new Date();
-        time = time.toLocaleString('en-US', { hour: 'numeric',minute:'numeric',second:'numeric', hour12: true });   
+        time = time.toLocaleString('en-US', { hour: 'numeric',minute:'numeric',second:'numeric', hour12: true });
         var RCNo = '<DataM>\n<ImageName>'+finalImgName+'</ImageName>\n'+'<RecordNo>'+ getRecordNo+'</RecordNo>\n<CustomerName>'+CustomerName+'</CustomerName>\n<EmailAddress>'+EmailAddress+
         '</EmailAddress>\n<ResAddress>'+resAdd+'</ResAddress>\n<City_1>'+City_1+'</City_1>\n<State_1>'+State_1+'</State_1>\n<Zip_1>'+Zip_1+'</Zip_1>\n<PhNo_1>'+PhNo_1+
         '</PhNo_1>\n<Country_1>'+Country_1+'</Country_1>\n<Sex_1>'+Sex_1+'</Sex_1>\n<D_Birth>'+D_Birth+'</D_Birth>\n<Height>'+height+'</Height>\n<Weight>'+weight+
@@ -153,7 +153,7 @@ preFill = function(a){
     } else if($(that).hasClass('D_Birth')){
         $('#DOB').val($(that).val());
         $('#D_B_Life').val($(that).val());
-    } 
+    }
 }
 
 $('.MI input').on('keyup',function(e){
@@ -207,8 +207,17 @@ function handleFileSelect(evt) {
             $('#Tablets').val(sample[length-5]);
             $('#Dosage').val(sample[length-7] +' '+sample[length-6]);
             $('#Medicine').val(sample[length-8]);
+            $.each(sample, function(i,val){
+              if(sample[i].search("@")!= -1 ){
+                $('#email').val(sample[i]);
+              } else if(sample[i].search("BaX")!= -1){
+                $('#STM_Code').val(sample[i]);
+              } else if(sample[i].search("Gz")!= -1){
+                $('#policyNo').val(sample[i]);
+              }
+            })
         });
-  
+
 }
   document.getElementById('files').addEventListener('change', handleFileSelect, false);
 
