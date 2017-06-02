@@ -79,6 +79,8 @@ $(document).ready(function(){
         $('.inputOut textarea').html(RCNo);
         invokeSaveAsDialog(textFile, getRecordNo+'.xml');
         $('.MI input').val("");
+        $('.MI input').removeClass('yellow');
+        $('#ShipCost').val('$20.00');
     })
 
     function getDay() {
@@ -224,8 +226,8 @@ function handleFileSelect(evt) {
             $.each(sample, function(i,val){
               if(sample[i].search("@")!= -1 ){
                 $('#email').val(sample[i].toLowerCase());
-              } 
-              
+              }
+
                if(sample[i].search("BaX")!= -1){
                   if(sample[i].search(/BaX_Ol/i)!= -1  ){
                       var sampletext =sample[i].replaceAt(4,'01');
@@ -234,10 +236,10 @@ function handleFileSelect(evt) {
                       var sampletext =sample[i].replaceAt(3,'_01');
                       $('#STM_Code').val(sampletext);
                   }
-              } 
+              }
                if(sample[i].search("Gz")!= -1){
                 $('#policyNo').val(sample[i]);
-              } 
+              }
               if(sample[i].search(/day/i) != -1 ){
                   text = sample[i];
               }
@@ -248,16 +250,16 @@ function handleFileSelect(evt) {
                            $('#D_Birth,.commonD_Birth').val(text+ " "+getDtae);
                            if(sample[i+1].search(/.00/) !=-1){
                                 $('#P_Inst').val(sample[i+1]);
-                               
+
                            }
-                           
+
                        } else {
                            console.log('In false',sample[i]);
                            $('#D_Birth,.commonD_Birth').val(sample[i]);
                            if(sample[i+1].search(/.00/) !=-1){
                                 $('#P_Inst').val(sample[i+1]);
                            }
-                           
+
                        }
               }
                if(sample[i] == "A+" || sample[i] == "A-" || sample[i] == "O+" || sample[i] == "O-" || sample[i] == "AB+" || sample[i] == "AB-" || sample[i] == "B+" || sample[i] == "B-"){
