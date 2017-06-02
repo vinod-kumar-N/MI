@@ -273,7 +273,7 @@ function handleFileSelect(evt) {
                   array.push(sample[i]);
                   console.log(array)
               }
-              if(sample[i].search(/other/i)!=-1 || sample[i].search(/american/i)!=-1 || sample[i].search(/Discover/i) !=-1 || sample[i].search(/retail/i)!=-1 || sample[i].search(/bank/i) !=-1 || sample[i].search(/card/i) !=-1 || sample[i].search(/visa/i) !=-1){
+              if(sample[i].search(/other/i)!=-1 || sample[i].search(/american/i)!=-1 || sample[i].search(/Discover/i) !=-1 || sample[i].search(/retail/i)!=-1 || sample[i].search(/bank/i) !=-1 || sample[i].search(/card/i) !=-1 || sample[i].search(/visa/i) !=-1 || sample[i].search(/gas/i) !=-1){
                 $('#CN').val(sample[i]);
               }
             })
