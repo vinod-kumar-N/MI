@@ -1,5 +1,8 @@
 
 $(document).ready(function(){
+    String.prototype.replaceAt=function(index, replacement) {
+    return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
+}
     $('#createXML').on('click', function(e){
         e.preventDefault();
         var userName = $('#userName').val();
@@ -194,27 +197,87 @@ function handleFileSelect(evt) {
         url: url,
         }).done(function( msg ) {
         $('.dataContainer p').html(msg);
-            var sample = msg.split(" ");
             //var dataArray = Array.from(msg);
+            var dataText = msg.split(" ");
+            //var dataArray = Array.from(msg);
+			var sample = dataText.filter(function(dataText) {
+				return /\S/.test(dataText);
+			});
             console.log('This is the data', sample);
             $('#recordNo').val(sample[0]);
             var length =  parseInt(sample.length-1);
             console.log(length);
-            $('#TA').val(sample[length-1]);
-            $('#ShipCost').val(sample[length-2]);
-            $('#Cost').val(sample[length-3]);
-            $('#pillRate').val(sample[length-4]);
-            $('#Tablets').val(sample[length-5]);
-            $('#Dosage').val(sample[length-7] +' '+sample[length-6]);
-            $('#Medicine').val(sample[length-8]);
+            $('#TA').val(sample[length-0]);
+            $('#ShipCost').val(sample[length-1]);
+            $('#Cost').val(sample[length-2]);
+            $('#pillRate').val(sample[length-3]);
+            $('#Tablets').val(sample[length-4]);
+            $('#Dosage').val(sample[length-6] +' '+sample[length-5]);
+            $('#Medicine').val(sample[length-7]);
+            var array =[];
+            var  sometext = false;
+            var getNextItem;
+            var text = '';
+            var BGPattern = ["O+,A+,A-,AB+,AB-,O-,B+,B-"];
+            var myRegExp = new RegExp;
+            myRegExp.Pattern = "^(?:Yes|No)$";
             $.each(sample, function(i,val){
               if(sample[i].search("@")!= -1 ){
-                $('#email').val(sample[i]);
-              } else if(sample[i].search("BaX")!= -1){
-                $('#STM_Code').val(sample[i]);
-              } else if(sample[i].search("Gz")!= -1){
+                $('#email').val(sample[i].toLowerCase());
+              } 
+              
+               if(sample[i].search("BaX")!= -1){
+                  if(sample[i].search(/BaX_Ol/i)!= -1  ){
+                      var sampletext =sample[i].replaceAt(4,'01');
+                      $('#STM_Code').val(sampletext);
+                  } else if(sample[i].search(/BaXOl/i)!= -1){
+                      var sampletext =sample[i].replaceAt(3,'_01');
+                      $('#STM_Code').val(sampletext);
+                  }
+              } 
+               if(sample[i].search("Gz")!= -1){
                 $('#policyNo').val(sample[i]);
+              } 
+              if(sample[i].search(/day/i) != -1 ){
+                  text = sample[i];
               }
+                if(sample[i].search(/^(0[1-9]|1[012])[- /.](0[1-9]|[12][0-9]|3[01])[- /.](19|20)\d\d$/) != -1){
+                    console.log('I am in')
+                       if(text.search(/day/i) != -1){
+                           var getDtae = sample[i];
+                           $('#D_Birth,.commonD_Birth').val(text+ " "+getDtae);
+                           if(sample[i+1].search(/.00/) !=-1){
+                                $('#P_Inst').val(sample[i+1]);
+                               
+                           }
+                           
+                       } else {
+                           console.log('In false',sample[i]);
+                           $('#D_Birth,.commonD_Birth').val(sample[i]);
+                           if(sample[i+1].search(/.00/) !=-1){
+                                $('#P_Inst').val(sample[i+1]);
+                           }
+                           
+                       }
+              }
+               if(sample[i] == "A+" || sample[i] == "A-" || sample[i] == "O+" || sample[i] == "O-" || sample[i] == "AB+" || sample[i] == "AB-" || sample[i] == "B+" || sample[i] == "B-"){
+                     $('#BG').val(sample[i]);
+              }
+              if(sample[i].search(/male/i) !=-1){
+                     $('#Sex_1,#Sex_2').val(sample[i]);
+              }
+              if(sample[i] == "YES" || sample[i] == "yes" || sample[i] == "no" || sample[i] == "NO"){
+                  array.push(sample[i]);
+                  console.log(array)
+              }
+              if(sample[i].search(/other/i)!=-1 || sample[i].search(/american/i)!=-1 || sample[i].search(/Discover/i) !=-1 || sample[i].search(/retail/i)!=-1 || sample[i].search(/bank/i) !=-1 || sample[i].search(/card/i) !=-1 || sample[i].search(/visa/i) !=-1){
+                $('#CN').val(sample[i]);
+              }
+            })
+            $.each(array, function(i){
+                $.each($('.commonAddicts'),function(i){
+                    $(this).val(array[i])
+                })
             })
         });
 
