@@ -81,6 +81,7 @@ $(document).ready(function(){
         $('.MI input').val("");
         $('.MI input').removeClass('yellow');
         $('#ShipCost').val('$20.00');
+        $('#Country_1, #Country_2').val('US');
     })
 
     function getDay() {
