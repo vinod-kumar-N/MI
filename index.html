@@ -5,8 +5,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MI</title>
-    <script src="js/jquery-3.2.0.min.js"></script>
+    
+    <script src="https://cdn.jsdelivr.net/jquery/3.1.0/jquery.min.js"></script>
     <link rel="stylesheet" href="css/master.css">
+
   </head>
   <body>
       <div>
@@ -188,6 +190,8 @@
           </div>
           <p>
             <button id="createXML">Create XML</button>
+             <button id="loadXML" onclick="event.preventDefault(); loadXMLDoc()">Load XML</button>
+             <button id="updateXML">Update</button>
           </p>
       </form>
 
@@ -209,6 +213,8 @@
   <button class="js-textareacopybtn">Copy Textarea</button>
 </p>
           </div>
+<table id="demo"></table>
+          <script type="text/javascript" src="js/fancybox.js"></script>
       <script src="js/main.js"></script>
   </body>
 </html>

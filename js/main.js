@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
 	var sample;
-	var getinputNum;
+	var getinputNum = -1;
     String.prototype.replaceAt=function(index, replacement) {
     return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
 }
@@ -304,14 +304,14 @@ preFill = function(a){
 		}
 		callMissingField();
 	} else if ($(that).hasClass('STM')){
-		if ($.trim($('#ShipName').val()).split(' ').filter(function(v){return v!==''}).length == 2){
-			getSTM = getPolicynum + $('#D_B_Life').val().split(' ').filter(function(v){return v!==''}).length + $('#Name_P').val().split(' ').filter(function(v){return v!==''}).length + 2;
-		}else if ($.trim($('#ShipName').val()).split(' ').filter(function(v){return v!==''}).length == 3){
-			getSTM = getPolicynum + $('#D_B_Life').val().split(' ').filter(function(v){return v!==''}).length + $('#Name_P').val().split(' ').filter(function(v){return v!==''}).length +  5;
-		}else if ($.trim($('#ShipName').val()).split(' ').filter(function(v){return v!==''}).length == 1){
+		if ($('#ShipName').val() == 2){
+			getSTM = getPolicynum + $('#D_B_Life').val().split(' ').filter(function(v){return v!==''}).length + $('#Name_P').val().split(' ').filter(function(v){return v!==''}).length + 1;
+		}else if ($('#ShipName').val() == 3){
 			getSTM = getPolicynum + $('#D_B_Life').val().split(' ').filter(function(v){return v!==''}).length + $('#Name_P').val().split(' ').filter(function(v){return v!==''}).length +  4;
-		} else{
+		}else if ($('#ShipName').val() == 1){
 			getSTM = getPolicynum + $('#D_B_Life').val().split(' ').filter(function(v){return v!==''}).length + $('#Name_P').val().split(' ').filter(function(v){return v!==''}).length +  3;
+		} else{
+			getSTM = getPolicynum + $('#D_B_Life').val().split(' ').filter(function(v){return v!==''}).length + $('#Name_P').val().split(' ').filter(function(v){return v!==''}).length +  2;
 		}
 		if($(that).val() == 2){
 			$('#STM').val(sample[getSTM] +" "+ sample[getSTM + 1]);
@@ -479,4 +479,122 @@ function callMissingField(){
 		}
 	});	
 }
+
+loadXMLDoc = function () {
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      myFunction(this);
+    }
+  };
+  xmlhttp.open("GET", "DataM.xml", true);
+  xmlhttp.send();
+}
+function myFunction(xml) {
+  var i;
+  var xmlDoc = xml.responseXML;
+  var table="";
+  var x = xmlDoc.getElementsByTagName("DataM");
+  for (i = 0; i <x.length; i++) { 
+    table += "<tr><td>" +
+    x[i].getElementsByTagName("RecordNo")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("CustomerName")[0].childNodes[0].nodeValue +
+    "</td><td>" + 
+    x[i].getElementsByTagName("EmailAddress")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("ResAddress")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("City_1")[0].childNodes[0].nodeValue +
+    "</td><td>" + 
+    x[i].getElementsByTagName("State_1")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("Zip_1")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("PhNo_1")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("Country_1")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("Sex_1")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("D_Birth")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("Height")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("Weight")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("Blood_Group")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("BillingName")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("ShipperName")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("City_2")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("State_2")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("Zip_2")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("Country_2")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("PhNo_2")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("Alcoholic")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+    x[i].getElementsByTagName("Smoker")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("PastSug")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("Diabetic")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("Allergiesd")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("PloicyNo")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("D_B_Life_Assure")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("P_Inst")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("Name_P_Holder")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("STM_Name")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("STM_Code")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("DOB")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("Sex_2")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("CardName")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("Medicine")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("Dosage")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("Tablets")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("PillRate")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("Cost")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("ShippingCost")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("TotalAmount")[0].childNodes[0].nodeValue +
+    "</td><td>" +
+     x[i].getElementsByTagName("Remarks")[0].childNodes[0].nodeValue +
+    "</td></tr>";
+  }
+  document.getElementById("demo").innerHTML = table;
+}
+$(document).on('click','#demo tr td',function(){
+  var ele = $(this).parent().children();
+  
+      i=1;
+  $.each(ele, function(i){
+      var getDataEle =ele[i];
+      var getEle = $('.MI input')[i];
+      $(getEle).val($(getDataEle).html());
+  })
+})
+
 });
