@@ -1,5 +1,7 @@
 
 $(document).ready(function(){
+	var sample;
+	var getinputNum;
     String.prototype.replaceAt=function(index, replacement) {
     return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
 }
@@ -150,16 +152,180 @@ $(document).ready(function(){
 preFill = function(a){
     var that = a;
     if($(that).hasClass('custName')){
+		if($(that).val() == 2){
+			getinputNum = 2;
+			$(that).val(sample[1]+" "+sample[2]);
+			$('#BillName, #Name_P').val($(that).val());
+		} else if($(that).val() == 3){
+			getinputNum = 3;
+			$(that).val(sample[1]+" "+sample[2] + " "+sample[3]);
+			$('#BillName, #Name_P').val($(that).val());
+		} else if($(that).val() == 1){
+			getinputNum = 1;
+			$(that).val(sample[1]);
+			$('#BillName, #Name_P').val($(that).val());
+		} 
         $('#BillName').val($(that).val());
         $('#Name_P').val($(that).val());
+		callMissingField();
     } else if($(that).hasClass('PhNo_1')){
-        $('#PhNo_2').val($(that).val())
+        $('#PhNo_2').val($(that).val());
+		callMissingField();
     } else if($(that).hasClass('Sex_1')){
-         $('#Sex_2').val($(that).val())
+         $('#Sex_2').val($(that).val());
+		 callMissingField();
     } else if($(that).hasClass('D_Birth')){
         $('#DOB').val($(that).val());
         $('#D_B_Life').val($(that).val());
-    }
+		callMissingField();
+    }else if ($(that).hasClass('resAdd')){
+		internalNum = parseInt(getinputNum) + 2;
+		getResAdd = $(that).val();
+		if($(that).val() == 2){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]);
+		}else if($(that).val() == 3){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+" "+sample[internalNum + 2]);
+		}else if($(that).val() == 4){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+" "+sample[internalNum + 3]);
+		}else if($(that).val() == 5){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]);
+		}else if($(that).val() == 6){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]+" "+sample[internalNum + 5]);
+		}else if($(that).val() == 7){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]+" "+sample[internalNum + 5]+" "+sample[internalNum + 6]);
+		}else if($(that).val() == 8){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]+" "+sample[internalNum + 5]+" "+sample[internalNum + 6]+" "+sample[internalNum + 7]);
+		}
+		callMissingField();
+	}else if ($(that).hasClass('City_1')){
+		internalNumCity = internalNum+ parseInt(getResAdd);
+		if($(that).val() == 1){
+			$(that).val(sample[internalNumCity]);
+			$('.State_1').val(sample[internalNumCity + 1]);
+			$('#Zip_1').val(sample[internalNumCity + 2]);
+			$('#PhNo_1').val(sample[internalNumCity + 3]);
+			$('#Country_1, #Country_2').val(sample[internalNumCity + 4]);
+			if(sample[internalNumCity + 6].search(/day/i) != -1){
+				$('#Height').val(sample[internalNumCity + 8]);
+				$('#Weight').val(sample[internalNumCity + 9]);
+				$('#BG').val(sample[internalNumCity + 10]);
+				getshipNum = internalNumCity + 10;
+			} else {
+				$('#Height').val(sample[internalNumCity + 7]);
+				$('#Weight').val(sample[internalNumCity + 8]);
+				$('#BG').val(sample[internalNumCity + 9]);
+				getshipNum = internalNumCity + 9;
+			}
+		}
+		if($(that).val() == 2){
+			$(that).val(sample[internalNumCity] +" "+sample[internalNumCity + 1]);
+			$('.State_1').val(sample[internalNumCity + 2]);
+			$('#Zip_1').val(sample[internalNumCity + 3]);
+			$('#PhNo_1').val(sample[internalNumCity + 4]);
+			$('#Country_1, #Country_2').val(sample[internalNumCity + 5]);
+			if(sample[internalNumCity + 7].search(/day/i) != -1){
+				$('#Height').val(sample[internalNumCity + 9]);
+				$('#Weight').val(sample[internalNumCity + 10]);
+				$('#BG').val(sample[internalNumCity + 11]);
+				getshipNum = internalNumCity + 11;
+			} else {
+				$('#Height').val(sample[internalNumCity + 8]);
+				$('#Weight').val(sample[internalNumCity + 9]);
+				$('#BG').val(sample[internalNumCity + 10]);
+				getshipNum = internalNumCity + 10;
+			}
+		}else if($(that).val() == 3){
+			$(that).val(sample[internalNumCity] +" "+sample[internalNumCity + 1] +" "+sample[internalNumCity + 2] );
+			$('.State_1').val(sample[internalNumCity + 3]);
+			$('#Zip_1').val(sample[internalNumCity + 4]);
+			$('#PhNo_1').val(sample[internalNumCity + 5]);
+			$('#Country_1, #Country_2').val(sample[internalNumCity + 6]);
+			if(sample[internalNumCity + 8].search(/day/i) != -1){
+				$('#Height').val(sample[internalNumCity + 10]);
+				$('#Weight').val(sample[internalNumCity + 11]);
+				$('#BG').val(sample[internalNumCity + 12]);
+				getshipNum = internalNumCity + 12;
+			} else {
+				$('#Height').val(sample[internalNumCity + 9]);
+				$('#Weight').val(sample[internalNumCity + 10]);
+				$('#BG').val(sample[internalNumCity + 11]);
+				getshipNum = internalNumCity + 11;
+			}
+		}
+		callMissingField();
+	}else if ($(that).hasClass('ShipName')){
+		if($(that).val() == 1){
+			$('#ShipName').val(sample[getshipNum + $('#BillName').length + 2]);
+			getTotalAgain = parseInt(getshipNum) + parseInt($('#BillName').length)  + 3;
+		}else if($(that).val() == 2){
+			$('#ShipName').val(sample[getshipNum + $('#BillName').length + 2] +" "+sample[getshipNum + $('#BillName').length + 3]);
+			
+			getTotalAgain = parseInt(getshipNum) + parseInt($('#BillName').length)  + 4;
+		}else if($(that).val() == 3){
+			$('#ShipName').val(sample[getshipNum + $('#BillName').length + 2] +" "+sample[getshipNum + $('#BillName').length + 3]+" "+sample[getshipNum + $('#BillName').length + 4]);
+			getTotalAgain = parseInt(getshipNum) + parseInt($('#BillName').length)  + 5;
+		}else if($(that).val() == 4){
+			$('#ShipName').val(sample[getshipNum + $('#BillName').length + 2] +" "+sample[getshipNum + $('#BillName').length + 3] +" "+sample[getshipNum + $('#BillName').length + 4] +" "+sample[getshipNum + $('#BillName').length + 5]);
+			getTotalAgain = parseInt(getshipNum) + parseInt($('#BillName').length) + 6;
+		}
+		callMissingField();
+	} else if ($(that).hasClass('City_2')){
+		if($(that).val() == 1){
+			$('#City_2').val(sample[getTotalAgain]);
+			$('#State_2').val(sample[getTotalAgain + 1]);
+			$('#Zip_2').val(sample[getTotalAgain + 2]);
+			$('#Country_2').val(sample[getTotalAgain + 3]);
+			$('#PhNo_2').val(sample[getTotalAgain + 4]);
+			getPolicynum = getTotalAgain + 4 + 5 + 1;
+			$('#policyNo').val(sample[getPolicynum]);
+		}else if($(that).val() == 2){
+			$('#City_2').val(sample[getTotalAgain] + " "+ sample[getTotalAgain + 1]);
+			$('#State_2').val(sample[getTotalAgain + 2]);
+			$('#Zip_2').val(sample[getTotalAgain + 3]);
+			$('#Country_2').val(sample[getTotalAgain + 4]);
+			$('#PhNo_2').val(sample[getTotalAgain + 5]);
+			getPolicynum = getTotalAgain + 5 + 5 + 1;
+			$('#policyNo').val(sample[getPolicynum]);
+		}else if($(that).val() == 3){
+			$('#City_2').val(sample[getTotalAgain] + " "+ sample[getTotalAgain + 1] +" "+sample[getTotalAgain + 2]);
+			$('#State_2').val(sample[getTotalAgain + 3]);
+			$('#Zip_2').val(sample[getTotalAgain + 4]);
+			$('#Country_2').val(sample[getTotalAgain + 6]);
+			$('#PhNo_2').val(sample[getTotalAgain + 7]);
+			getPolicynum = getTotalAgain + 7 + 5 + 1;
+			$('#policyNo').val(sample[getPolicynum]);
+		}
+		callMissingField();
+	} else if ($(that).hasClass('STM')){
+		if ($.trim($('#ShipName').val()).split(' ').filter(function(v){return v!==''}).length == 2){
+			getSTM = getPolicynum + $('#D_B_Life').val().split(' ').filter(function(v){return v!==''}).length + $('#Name_P').val().split(' ').filter(function(v){return v!==''}).length + 2;
+		}else if ($.trim($('#ShipName').val()).split(' ').filter(function(v){return v!==''}).length == 3){
+			getSTM = getPolicynum + $('#D_B_Life').val().split(' ').filter(function(v){return v!==''}).length + $('#Name_P').val().split(' ').filter(function(v){return v!==''}).length +  5;
+		}else if ($.trim($('#ShipName').val()).split(' ').filter(function(v){return v!==''}).length == 1){
+			getSTM = getPolicynum + $('#D_B_Life').val().split(' ').filter(function(v){return v!==''}).length + $('#Name_P').val().split(' ').filter(function(v){return v!==''}).length +  4;
+		} else{
+			getSTM = getPolicynum + $('#D_B_Life').val().split(' ').filter(function(v){return v!==''}).length + $('#Name_P').val().split(' ').filter(function(v){return v!==''}).length +  3;
+		}
+		if($(that).val() == 2){
+			$('#STM').val(sample[getSTM] +" "+ sample[getSTM + 1]);
+			$('#STM_Code').val(sample[getSTM + 2])
+		}else if($(that).val() == 3){
+			$('#STM').val(sample[getSTM] +" "+ sample[getSTM + 1] + " "+sample[getSTM + 2]);
+			$('#STM_Code').val(sample[getSTM + 3]);
+		}else if($(that).val() == 1){
+			$('#STM').val(sample[getSTM]);
+			$('#STM_Code').val(sample[getSTM + 1])
+		}
+		callMissingField();
+	}
+	
 }
 
 $('.MI input').on('keyup',function(e){
@@ -203,7 +369,7 @@ function handleFileSelect(evt) {
             //var dataArray = Array.from(msg);
             var dataText = msg.split(" ");
             //var dataArray = Array.from(msg);
-			var sample = dataText.filter(function(dataText) {
+			sample = dataText.filter(function(dataText) {
 				return /\S/.test(dataText);
 			});
             console.log('This is the data', sample);
@@ -227,8 +393,8 @@ function handleFileSelect(evt) {
             $.each(sample, function(i,val){
               if(sample[i].search("@")!= -1 ){
                 $('#email').val(sample[i].toLowerCase());
-              }
-
+              } 
+              
                if(sample[i].search("BaX")!= -1){
                   if(sample[i].search(/BaX_Ol/i)!= -1  ){
                       var sampletext =sample[i].replaceAt(4,'01');
@@ -237,10 +403,10 @@ function handleFileSelect(evt) {
                       var sampletext =sample[i].replaceAt(3,'_01');
                       $('#STM_Code').val(sampletext);
                   }
-              }
-               if(sample[i].search("Gz")!= -1){
+              } 
+               if(sample[i].search("Gz")!= -1 || sample[i].search("Yt_")!= -1 || sample[i].search("yWzX_")!= -1){
                 $('#policyNo').val(sample[i]);
-              }
+              } 
               if(sample[i].search(/day/i) != -1 ){
                   text = sample[i];
               }
@@ -251,16 +417,16 @@ function handleFileSelect(evt) {
                            $('#D_Birth,.commonD_Birth').val(text+ " "+getDtae);
                            if(sample[i+1].search(/.00/) !=-1){
                                 $('#P_Inst').val(sample[i+1]);
-
+                               
                            }
-
+                           
                        } else {
                            console.log('In false',sample[i]);
                            $('#D_Birth,.commonD_Birth').val(sample[i]);
                            if(sample[i+1].search(/.00/) !=-1){
                                 $('#P_Inst').val(sample[i+1]);
                            }
-
+                           
                        }
               }
                if(sample[i] == "A+" || sample[i] == "A-" || sample[i] == "O+" || sample[i] == "O-" || sample[i] == "AB+" || sample[i] == "AB-" || sample[i] == "B+" || sample[i] == "B-"){
@@ -304,4 +470,13 @@ copyTextareaBtn.addEventListener('click', function(event) {
   }
 });
 
+function callMissingField(){
+	$.each($('.MI input'), function(){
+		if ($(this).val() == 'N.A'){
+			$(this).addClass('yellow');
+		} else{
+			$(this).removeClass('yellow');
+		}
+	});	
+}
 });
