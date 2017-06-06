@@ -149,32 +149,29 @@ $(document).ready(function(){
         URL.revokeObjectURL(hyperlink.href);
     }
 }
-function callKeyCode(b,c){
-    var unicode=event.keyCode? event.keyCode : event.charCode
-        if ((unicode >= 96 && unicode <= 105) ||(unicode >= 48 && unicode <= 57) ) {
-            getinputNum  += parseInt($(c).val());
-            callresAddLoop(getinputNum, b, c);
-        }
-}
-function callresAddLoop(getlastNum, sample, that){
-            var getName = [];
-            var num = parseInt($(that).val());
-            for(i = getlastNum;i<= getlastNum+num-1; i++){
-                getName.push(sample[i]);
-            }
-            console.log(getName);
-            $.each(getName,function(i){
-                $(that).val(getName.join(' '));
-            })
-        }
 preFill = function(a){
     var that = a;
     if($(that).hasClass('custName')){
-        var getcustomNum = $(that).val();
-        callKeyCode(sample,$(that));
-        $('#BillName,#Name_P').val($(that).val());
+		if($(that).val() == 2){
+			getinputNum = 2;
+			$(that).val(sample[1]+" "+sample[2]);
+			$('#BillName, #Name_P').val($(that).val());
+		} else if($(that).val() == 3){
+			getinputNum = 3;
+			$(that).val(sample[1]+" "+sample[2] + " "+sample[3]);
+			$('#BillName, #Name_P').val($(that).val());
+		} else if($(that).val() == 1){
+			getinputNum = 1;
+			$(that).val(sample[1]);
+			$('#BillName, #Name_P').val($(that).val());
+		} 
+        $('#BillName').val($(that).val());
+        $('#Name_P').val($(that).val());
 		callMissingField();
-    }else if($(that).hasClass('Sex_1')){
+    } else if($(that).hasClass('PhNo_1')){
+        $('#PhNo_2').val($(that).val());
+		callMissingField();
+    } else if($(that).hasClass('Sex_1')){
          $('#Sex_2').val($(that).val());
 		 callMissingField();
     } else if($(that).hasClass('D_Birth')){
@@ -183,7 +180,29 @@ preFill = function(a){
 		callMissingField();
     }else if ($(that).hasClass('resAdd')){
 		internalNum = parseInt(getinputNum) + 2;
-		callKeyCode(sample,$(that));
+		getResAdd = $(that).val();
+		if($(that).val() == 2){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]);
+		}else if($(that).val() == 3){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+" "+sample[internalNum + 2]);
+		}else if($(that).val() == 4){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+" "+sample[internalNum + 3]);
+		}else if($(that).val() == 5){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]);
+		}else if($(that).val() == 6){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]+" "+sample[internalNum + 5]);
+		}else if($(that).val() == 7){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]+" "+sample[internalNum + 5]+" "+sample[internalNum + 6]);
+		}else if($(that).val() == 8){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]+" "+sample[internalNum + 5]+" "+sample[internalNum + 6]+" "+sample[internalNum + 7]);
+		}
 		callMissingField();
 	}else if ($(that).hasClass('City_1')){
 		internalNumCity = internalNum+ parseInt(getResAdd);
