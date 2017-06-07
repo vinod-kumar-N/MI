@@ -1,7 +1,9 @@
 
 $(document).ready(function(){
 	var sample;
-	var getinputNum = -1;
+    var storeKey = [];
+    var getinputNum =0;
+    var getnum = 4;
     String.prototype.replaceAt=function(index, replacement) {
     return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
 }
@@ -149,31 +151,35 @@ $(document).ready(function(){
         URL.revokeObjectURL(hyperlink.href);
     }
 }
-function callKeyCode(b,c){
+function callKeyCode(a,b,c){
     var unicode=event.keyCode? event.keyCode : event.charCode
         if ((unicode >= 96 && unicode <= 105) ||(unicode >= 48 && unicode <= 57) ) {
-            getinputNum  += parseInt($(c).val());
-            callresAddLoop(getinputNum, b, c);
+            if (flag){
+                getRecentNum = parseInt($(c).val());
+                flag = false;
+            }
+           var d = d || parseInt($(c).val());
+            callresAddLoop(a,sample,c,d);
         }
 }
-function callresAddLoop(getlastNum, sample, that){
+function callresAddLoop(getlastNum, sample, that, getVlaue){
             var getName = [];
-            var num = parseInt($(that).val());
-            for(i = getlastNum;i<= getlastNum+num-1; i++){
+            for(i = getlastNum;i<= getVlaue + getlastNum -1; i++){
                 getName.push(sample[i]);
             }
             console.log(getName);
             $.each(getName,function(i){
                 $(that).val(getName.join(' '));
             })
+            callMissingField();
         }
 preFill = function(a){
     var that = a;
     if($(that).hasClass('custName')){
-        var getcustomNum = $(that).val();
-        callKeyCode(sample,$(that));
+        getinputNum =1;
+        flag = true;
+        callKeyCode(getinputNum,sample,$(that));
         $('#BillName,#Name_P').val($(that).val());
-		callMissingField();
     }else if($(that).hasClass('Sex_1')){
          $('#Sex_2').val($(that).val());
 		 callMissingField();
@@ -182,65 +188,11 @@ preFill = function(a){
         $('#D_B_Life').val($(that).val());
 		callMissingField();
     }else if ($(that).hasClass('resAdd')){
-		internalNum = parseInt(getinputNum) + 2;
-		callKeyCode(sample,$(that));
-		callMissingField();
+        getnum = getRecentNum + 2;
+		callKeyCode(getnum,sample,$(that));
 	}else if ($(that).hasClass('City_1')){
-		internalNumCity = internalNum+ parseInt(getResAdd);
-		if($(that).val() == 1){
-			$(that).val(sample[internalNumCity]);
-			$('.State_1').val(sample[internalNumCity + 1]);
-			$('#Zip_1').val(sample[internalNumCity + 2]);
-			$('#PhNo_1').val(sample[internalNumCity + 3]);
-			$('#Country_1, #Country_2').val(sample[internalNumCity + 4]);
-			if(sample[internalNumCity + 6].search(/day/i) != -1){
-				$('#Height').val(sample[internalNumCity + 8]);
-				$('#Weight').val(sample[internalNumCity + 9]);
-				$('#BG').val(sample[internalNumCity + 10]);
-				getshipNum = internalNumCity + 10;
-			} else {
-				$('#Height').val(sample[internalNumCity + 7]);
-				$('#Weight').val(sample[internalNumCity + 8]);
-				$('#BG').val(sample[internalNumCity + 9]);
-				getshipNum = internalNumCity + 9;
-			}
-		}
-		if($(that).val() == 2){
-			$(that).val(sample[internalNumCity] +" "+sample[internalNumCity + 1]);
-			$('.State_1').val(sample[internalNumCity + 2]);
-			$('#Zip_1').val(sample[internalNumCity + 3]);
-			$('#PhNo_1').val(sample[internalNumCity + 4]);
-			$('#Country_1, #Country_2').val(sample[internalNumCity + 5]);
-			if(sample[internalNumCity + 7].search(/day/i) != -1){
-				$('#Height').val(sample[internalNumCity + 9]);
-				$('#Weight').val(sample[internalNumCity + 10]);
-				$('#BG').val(sample[internalNumCity + 11]);
-				getshipNum = internalNumCity + 11;
-			} else {
-				$('#Height').val(sample[internalNumCity + 8]);
-				$('#Weight').val(sample[internalNumCity + 9]);
-				$('#BG').val(sample[internalNumCity + 10]);
-				getshipNum = internalNumCity + 10;
-			}
-		}else if($(that).val() == 3){
-			$(that).val(sample[internalNumCity] +" "+sample[internalNumCity + 1] +" "+sample[internalNumCity + 2] );
-			$('.State_1').val(sample[internalNumCity + 3]);
-			$('#Zip_1').val(sample[internalNumCity + 4]);
-			$('#PhNo_1').val(sample[internalNumCity + 5]);
-			$('#Country_1, #Country_2').val(sample[internalNumCity + 6]);
-			if(sample[internalNumCity + 8].search(/day/i) != -1){
-				$('#Height').val(sample[internalNumCity + 10]);
-				$('#Weight').val(sample[internalNumCity + 11]);
-				$('#BG').val(sample[internalNumCity + 12]);
-				getshipNum = internalNumCity + 12;
-			} else {
-				$('#Height').val(sample[internalNumCity + 9]);
-				$('#Weight').val(sample[internalNumCity + 10]);
-				$('#BG').val(sample[internalNumCity + 11]);
-				getshipNum = internalNumCity + 11;
-			}
-		}
-		callMissingField();
+		internalNumCity = getnum + 1 ;
+		callKeyCode(getnum,sample,$(that));
 	}else if ($(that).hasClass('ShipName')){
 		if($(that).val() == 1){
 			$('#ShipName').val(sample[getshipNum + $('#BillName').length + 2]);
