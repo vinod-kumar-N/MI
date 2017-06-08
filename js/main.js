@@ -4,8 +4,7 @@ $(document).ready(function(){
     var storeKey = [];
     var getinputNum =0;
     var getnum = 4;
-    var city_names = ["Aberdeen", "Abilene", "Akron", "Albany", "Albuquerque", "Alexandria", "Allentown", "Amarillo", "Anaheim", "Anchorage", "Ann Arbor", "Antioch", "Apple Valley", "Appleton", "Arlington", "Arvada", "Asheville", "Athens", "Atlanta", "Atlantic City", "Augusta", "Aurora", "Austin", "Bakersfield", "Baltimore", "Barnstable", "Baton Rouge", "Beaumont", "Bel Air", "Bellevue", "Berkeley", "Bethlehem", "Billings", "Birmingham", "Bloomington", "Boise", "Boise City", "Bonita Springs", "Boston", "Boulder", "Bradenton", "Bremerton", "Bridgeport", "Brighton", "Brownsville", "Bryan", "Buffalo", "Burbank", "Burlington", "Cambridge", "Canton", "Cape Coral", "Carrollton", "Cary", "Cathedral City", "Cedar Rapids", "Champaign", "Chandler", "Charleston", "Charlotte", "Chattanooga", "Chesapeake", "Chicago", "Chula Vista","campbellsville", "Cincinnati", "Clarke County", "Clarksville", "Clearwater", "Cleveland", "College Station", "Colorado Springs", "Columbia", "Columbus", "Concord", "Coral Springs", "Corona", "Corpus Christi", "Costa Mesa", "Dallas", "Daly City", "Danbury", "Davenport", "Davidson County", "Dayton", "Daytona Beach", "Deltona", "Denton", "Denver", "Des Moines", "Detroit", "Downey", "Duluth", "Durham", "El Monte", "El Paso", "Elizabeth", "Elk Grove", "Elkhart", "Erie", "Escondido", "Eugene", "Evansville", "Fairfield", "Fargo", "Fayetteville", "Fitchburg", "Flint", "Fontana", "Fort Collins", "Fort Lauderdale", "Fort Smith", "Fort Walton Beach", "Fort Wayne", "Fort Worth", "Frederick", "Fremont", "Fresno", "Fullerton", "Gainesville", "Garden Grove", "Garland", "Gastonia", "Gilbert", "Glendale", "Grand Prairie", "Grand Rapids", "Grayslake", "Green Bay", "GreenBay", "Greensboro", "Greenville", "Gulfport-Biloxi", "Hagerstown", "Hampton", "Harlingen", "Harrisburg", "Hartford", "Havre de Grace", "Hayward", "Hemet", "Henderson", "Hesperia", "Hialeah", "Hickory", "High Point", "Hollywood", "Honolulu", "Houma", "Houston", "Howell", "Huntington", "Huntington Beach", "Huntsville", "Independence", "Indianapolis", "Inglewood", "Irvine", "Irving", "Jackson", "Jacksonville", "Jefferson", "Jersey City", "Johnson City", "Joliet", "Kailua", "Kalamazoo", "Kaneohe", "Kansas City", "Kennewick", "Kenosha", "Killeen", "Kissimmee", "Knoxville", "Lacey", "Lafayette", "Lake Charles", "Lakeland", "Lakewood", "Lancaster", "Lansing", "Laredo", "Las Cruces", "Las Vegas", "Layton", "Leominster", "Lewisville", "Lexington", "Lincoln", "Little Rock", "Long Beach", "Lorain", "Los Angeles", "Louisville", "Lowell", "Lubbock", "Macon", "Madison", "Manchester", "Marina", "Marysville", "McAllen", "McHenry", "Medford", "Melbourne", "Memphis", "Merced", "Mesa", "Mesquite", "Miami", "Milwaukee", "Minneapolis", "Miramar", "Mission Viejo", "Mobile", "Modesto", "Monroe", "Monterey", "Montgomery", "Moreno Valley", "Murfreesboro", "Murrieta", "Muskegon", "Myrtle Beach", "Naperville", "Naples", "Nashua", "Nashville", "New Bedford", "New Haven", "New London", "New Orleans", "New York", "New York City", "Newark", "Newburgh", "Newport News", "Norfolk", "Normal", "Norman", "North Charleston", "North Las Vegas", "North Port", "Norwalk", "Norwich", "Oakland", "Ocala", "Oceanside", "Odessa", "Ogden", "Oklahoma City", "Olathe", "Olympia", "Omaha", "Ontario", "Orange", "Orem", "Orlando", "Overland Park", "Oxnard", "Palm Bay", "Palm Springs", "Palmdale", "Panama City", "Pasadena", "Paterson", "Pembroke Pines", "Pensacola", "Peoria", "Philadelphia", "Phoenix", "Pittsburgh", "Plano", "Pomona", "Pompano Beach", "Port Arthur", "Port Orange", "Port Saint Lucie", "Port St. Lucie", "Portland", "Portsmouth", "Poughkeepsie", "Providence", "Provo", "Pueblo", "Punta Gorda", "Racine", "Raleigh", "Rancho Cucamonga", "Reading", "Redding", "Reno", "Richland", "Richmond", "Richmond County", "Riverside", "Roanoke", "Rochester", "Rockford", "Roseville", "Round Lake Beach", "Sacramento", "Saginaw", "Saint Louis", "Saint Paul", "Saint Petersburg", "Salem", "Salinas", "Salt Lake City", "San Antonio", "San Bernardino", "San Buenaventura", "San Diego", "San Francisco", "San Jose", "Santa Ana", "Santa Barbara", "Santa Clara", "Santa Clarita", "Santa Cruz", "Santa Maria", "Santa Rosa", "Sarasota", "Savannah", "Scottsdale", "Scranton", "Seaside", "Seattle", "Sebastian", "Shreveport", "Simi Valley", "Sioux City", "Sioux Falls", "South Bend", "South Lyon", "Spartanburg", "Spokane", "Springdale", "Springfield", "St. Louis", "St. Paul", "St. Petersburg", "Stamford", "Sterling Heights", "Stockton", "Sunnyvale", "Syracuse", "Tacoma", "Tallahassee", "Tampa", "Temecula", "Tempe", "Thornton", "Thousand Oaks", "Toledo", "Topeka", "Torrance", "Trenton", "Tucson", "Tulsa", "Tuscaloosa", "Tyler", "Utica", "Vallejo", "Vancouver", "Vero Beach", "Victorville", "Virginia Beach", "Visalia","VAN NUYS", "Waco", "Warren", "Washington", "Waterbury", "Waterloo","West palm beach", "West Covina", "West Valley City", "Westminster", "Wichita", "Wilmington", "Winston", "Winter Haven", "Worcester","west memphis", "Yakima", "Yonkers", "York", "Youngstown","mount kisco"];
-
+		var counter= 0;
     String.prototype.replaceAt=function(index, replacement) {
     return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
 }
@@ -156,12 +155,9 @@ $(document).ready(function(){
 function callKeyCode(a,b,c){
     var unicode=event.keyCode? event.keyCode : event.charCode
         if ((unicode >= 96 && unicode <= 105) ||(unicode >= 48 && unicode <= 57) ) {
-            if (flag){
-                getRecentNum = parseInt($(c).val());
-                flag = false;
-            }
            var d = d || parseInt($(c).val());
             callresAddLoop(a,sample,c,d);
+						return parseInt(d);
         }
 }
 function callresAddLoop(getlastNum, sample, that, getVlaue){
@@ -174,15 +170,12 @@ function callresAddLoop(getlastNum, sample, that, getVlaue){
                 $(that).val(getName.join(' '));
             })
             callMissingField();
+
         }
 preFill = function(a){
     var that = a;
-    if($(that).hasClass('custName')){
-        getinputNum =1;
-        flag = true;
-        callKeyCode(getinputNum,sample,$(that));
-        $('#BillName,#Name_P').val($(that).val());
-    }else if($(that).hasClass('Sex_1')){
+		getinputNum, getRecentNum=counter;
+	 if($(that).hasClass('Sex_1')){
          $('#Sex_2').val($(that).val());
 		 callMissingField();
     } else if($(that).hasClass('D_Birth')){
@@ -191,52 +184,22 @@ preFill = function(a){
 		callMissingField();
     }else if ($(that).hasClass('resAdd')){
         getnum = getRecentNum + 2;
-		callKeyCode(getnum,sample,$(that));
+		getrecentNum = callKeyCode(getnum,sample,$(that));
 	}else if ($(that).hasClass('City_1')){
-		internalNumCity = getnum + 1 ;
-		callKeyCode(getnum,sample,$(that));
+		internalNumCity = getrecentNum + getnum ;
+		getCityTotalNum = callKeyCode(internalNumCity,sample,$(that));
+		$("#State_1").val(sample[getCityTotalNum + internalNumCity]);
+		$('#Zip_1').val(sample[getCityTotalNum + internalNumCity +1]);
+		$('#PhNo_1').val(sample[getCityTotalNum + internalNumCity +2]);
+		$('#Country_1').val(sample[getCityTotalNum + internalNumCity +3]);
+		getShipperNameTotal = getCityTotalNum + internalNumCity + 4 + ($('#D_Birth').val().split(' ').filter(function(v){return v!==''}).length) + 3 + ($('#BillName').val().split(' ').filter(function(v){return v!==''}).length) ;
 	}else if ($(that).hasClass('ShipName')){
-		if($(that).val() == 1){
-			$('#ShipName').val(sample[getshipNum + $('#BillName').length + 2]);
-			getTotalAgain = parseInt(getshipNum) + parseInt($('#BillName').length)  + 3;
-		}else if($(that).val() == 2){
-			$('#ShipName').val(sample[getshipNum + $('#BillName').length + 2] +" "+sample[getshipNum + $('#BillName').length + 3]);
-			
-			getTotalAgain = parseInt(getshipNum) + parseInt($('#BillName').length)  + 4;
-		}else if($(that).val() == 3){
-			$('#ShipName').val(sample[getshipNum + $('#BillName').length + 2] +" "+sample[getshipNum + $('#BillName').length + 3]+" "+sample[getshipNum + $('#BillName').length + 4]);
-			getTotalAgain = parseInt(getshipNum) + parseInt($('#BillName').length)  + 5;
-		}else if($(that).val() == 4){
-			$('#ShipName').val(sample[getshipNum + $('#BillName').length + 2] +" "+sample[getshipNum + $('#BillName').length + 3] +" "+sample[getshipNum + $('#BillName').length + 4] +" "+sample[getshipNum + $('#BillName').length + 5]);
-			getTotalAgain = parseInt(getshipNum) + parseInt($('#BillName').length) + 6;
-		}
+		totalShip = getShipperNameTotal;
+		getrecentShipNum = callKeyCode(totalShip,sample,$(that));
 		callMissingField();
 	} else if ($(that).hasClass('City_2')){
-		if($(that).val() == 1){
-			$('#City_2').val(sample[getTotalAgain]);
-			$('#State_2').val(sample[getTotalAgain + 1]);
-			$('#Zip_2').val(sample[getTotalAgain + 2]);
-			$('#Country_2').val(sample[getTotalAgain + 3]);
-			$('#PhNo_2').val(sample[getTotalAgain + 4]);
-			getPolicynum = getTotalAgain + 4 + 5 + 1;
-			$('#policyNo').val(sample[getPolicynum]);
-		}else if($(that).val() == 2){
-			$('#City_2').val(sample[getTotalAgain] + " "+ sample[getTotalAgain + 1]);
-			$('#State_2').val(sample[getTotalAgain + 2]);
-			$('#Zip_2').val(sample[getTotalAgain + 3]);
-			$('#Country_2').val(sample[getTotalAgain + 4]);
-			$('#PhNo_2').val(sample[getTotalAgain + 5]);
-			getPolicynum = getTotalAgain + 5 + 5 + 1;
-			$('#policyNo').val(sample[getPolicynum]);
-		}else if($(that).val() == 3){
-			$('#City_2').val(sample[getTotalAgain] + " "+ sample[getTotalAgain + 1] +" "+sample[getTotalAgain + 2]);
-			$('#State_2').val(sample[getTotalAgain + 3]);
-			$('#Zip_2').val(sample[getTotalAgain + 4]);
-			$('#Country_2').val(sample[getTotalAgain + 6]);
-			$('#PhNo_2').val(sample[getTotalAgain + 7]);
-			getPolicynum = getTotalAgain + 7 + 5 + 1;
-			$('#policyNo').val(sample[getPolicynum]);
-		}
+		getCity2Tot = totalShip + getrecentShipNum + 1;
+		getCity2Total = callKeyCode(getCity2Tot,sample,$(that));
 		callMissingField();
 	} else if ($(that).hasClass('STM')){
 		if ($('#ShipName').val() == 2){
@@ -301,22 +264,6 @@ function handleFileSelect(evt) {
         }).done(function( msg ) {
         $('.dataContainer p').html(msg);
             //var dataArray = Array.from(msg);
-            console.log('This is the actual data', msg);
-            var arrCity = [];
-            $.each(city_names,function(i){
-                
-                var sometext = msg.toLowerCase();
-                if (msg.search(city_names[i].toLowerCase()) !=-1){
-                    arrCity.push(city_names[i])
-                    console.log("City names"+arrCity);
-                }
-            })
-            if(arrCity.length == 3){
-                getCity1 = arrCity[1];
-                $('#City_1').val(arrCity[2]);
-                $('#City_2').val(arrCity[0]);
-            }
-
             var dataText = msg.split(" ");
             //var dataArray = Array.from(msg);
 			sample = dataText.filter(function(dataText) {
@@ -339,6 +286,7 @@ function handleFileSelect(evt) {
             var text = '';
             var BGPattern = ["O+,A+,A-,AB+,AB-,O-,B+,B-"];
             var myRegExp = new RegExp;
+						var arrStates = [];
             myRegExp.Pattern = "^(?:Yes|No)$";
             $.each(sample, function(i,val){
               if(sample[i].search("@")!= -1 ){
@@ -346,17 +294,10 @@ function handleFileSelect(evt) {
                 var arr = []
                 $('#email').val(sample[i].toLowerCase());
                 for(j=1; j<getEmailpostion;j++){
-                    arr.push(sample[j]); 
+                    arr.push(sample[j]);
+										counter++;
                 }
                 $('#custName, #BillName,#Name_P ').val(arr.join(' '));
-              } 
-              if(sample[i].toLowerCase() == getCity1.toLowerCase()){
-                  var getCity1Pos = i;
-                  var arr = []
-                  for(k= getEmailpostion; k<getCity1-1; k++){
-                    arr.push(sample[k]); 
-                  }
-                  $('#resAdd').val(arr.join(' '));
               }
                if(sample[i].search("BaX")!= -1){
                   if(sample[i].search(/BaX_Ol/i)!= -1  ){
@@ -366,10 +307,10 @@ function handleFileSelect(evt) {
                       var sampletext =sample[i].replaceAt(3,'_01');
                       $('#STM_Code').val(sampletext);
                   }
-              } 
+              }
                if(sample[i].search("Gz")!= -1 || sample[i].search("Yt_")!= -1 || sample[i].search("yWzX_")!= -1){
                 $('#policyNo').val(sample[i]);
-              } 
+              }
               if(sample[i].search(/day/i) != -1 ){
                   text = sample[i];
               }
@@ -380,16 +321,16 @@ function handleFileSelect(evt) {
                            $('#D_Birth,.commonD_Birth').val(text+ " "+getDtae);
                            if(sample[i+1].search(/.00/) !=-1){
                                 $('#P_Inst').val(sample[i+1]);
-                               
+
                            }
-                           
+
                        } else {
                            console.log('In false',sample[i]);
                            $('#D_Birth,.commonD_Birth').val(sample[i]);
                            if(sample[i+1].search(/.00/) !=-1){
                                 $('#P_Inst').val(sample[i+1]);
                            }
-                           
+
                        }
               }
                if(sample[i] == "A+" || sample[i] == "A-" || sample[i] == "O+" || sample[i] == "O-" || sample[i] == "AB+" || sample[i] == "AB-" || sample[i] == "B+" || sample[i] == "B-"){
@@ -444,7 +385,7 @@ function callMissingField(){
 		} else{
 			$(this).removeClass('yellow');
 		}
-	});	
+	});
 }
 
 loadXMLDoc = function () {
@@ -462,18 +403,18 @@ function myFunction(xml) {
   var xmlDoc = xml.responseXML;
   var table="";
   var x = xmlDoc.getElementsByTagName("DataM");
-  for (i = 0; i <x.length; i++) { 
+  for (i = 0; i <x.length; i++) {
     table += "<tr><td>" +
     x[i].getElementsByTagName("RecordNo")[0].childNodes[0].nodeValue +
     "</td><td>" +
     x[i].getElementsByTagName("CustomerName")[0].childNodes[0].nodeValue +
-    "</td><td>" + 
+    "</td><td>" +
     x[i].getElementsByTagName("EmailAddress")[0].childNodes[0].nodeValue +
     "</td><td>" +
     x[i].getElementsByTagName("ResAddress")[0].childNodes[0].nodeValue +
     "</td><td>" +
     x[i].getElementsByTagName("City_1")[0].childNodes[0].nodeValue +
-    "</td><td>" + 
+    "</td><td>" +
     x[i].getElementsByTagName("State_1")[0].childNodes[0].nodeValue +
     "</td><td>" +
     x[i].getElementsByTagName("Zip_1")[0].childNodes[0].nodeValue +
@@ -555,7 +496,7 @@ function myFunction(xml) {
 }
 $(document).on('click','#demo tr td',function(){
   var ele = $(this).parent().children();
-  
+
       i=1;
   $.each(ele, function(i){
       var getDataEle =ele[i];
@@ -563,7 +504,7 @@ $(document).on('click','#demo tr td',function(){
       $(getEle).val($(getDataEle).html());
   })
 })
-    
+
 $('#updateXML').on('click', function(e){
     e.preventDefault();
     $.get("js/readxml.php");
