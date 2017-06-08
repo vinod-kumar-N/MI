@@ -1,9 +1,7 @@
 
 $(document).ready(function(){
 	var sample;
-    var storeKey = [];
-    var getinputNum =0;
-    var getnum = 4;
+	var getinputNum = -1;
     String.prototype.replaceAt=function(index, replacement) {
     return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
 }
@@ -151,36 +149,29 @@ $(document).ready(function(){
         URL.revokeObjectURL(hyperlink.href);
     }
 }
-function callKeyCode(a,b,c){
-    var unicode=event.keyCode? event.keyCode : event.charCode
-        if ((unicode >= 96 && unicode <= 105) ||(unicode >= 48 && unicode <= 57) ) {
-            if (flag){
-                getRecentNum = parseInt($(c).val());
-                flag = false;
-            }
-           var d = d || parseInt($(c).val());
-            callresAddLoop(a,sample,c,d);
-        }
-}
-function callresAddLoop(getlastNum, sample, that, getVlaue){
-            var getName = [];
-            for(i = getlastNum;i<= getVlaue + getlastNum -1; i++){
-                getName.push(sample[i]);
-            }
-            console.log(getName);
-            $.each(getName,function(i){
-                $(that).val(getName.join(' '));
-            })
-            callMissingField();
-        }
 preFill = function(a){
     var that = a;
     if($(that).hasClass('custName')){
-        getinputNum =1;
-        flag = true;
-        callKeyCode(getinputNum,sample,$(that));
-        $('#BillName,#Name_P').val($(that).val());
-    }else if($(that).hasClass('Sex_1')){
+		if($(that).val() == 2){
+			getinputNum = 2;
+			$(that).val(sample[1]+" "+sample[2]);
+			$('#BillName, #Name_P').val($(that).val());
+		} else if($(that).val() == 3){
+			getinputNum = 3;
+			$(that).val(sample[1]+" "+sample[2] + " "+sample[3]);
+			$('#BillName, #Name_P').val($(that).val());
+		} else if($(that).val() == 1){
+			getinputNum = 1;
+			$(that).val(sample[1]);
+			$('#BillName, #Name_P').val($(that).val());
+		} 
+        $('#BillName').val($(that).val());
+        $('#Name_P').val($(that).val());
+		callMissingField();
+    } else if($(that).hasClass('PhNo_1')){
+        $('#PhNo_2').val($(that).val());
+		callMissingField();
+    } else if($(that).hasClass('Sex_1')){
          $('#Sex_2').val($(that).val());
 		 callMissingField();
     } else if($(that).hasClass('D_Birth')){
@@ -188,11 +179,87 @@ preFill = function(a){
         $('#D_B_Life').val($(that).val());
 		callMissingField();
     }else if ($(that).hasClass('resAdd')){
-        getnum = getRecentNum + 2;
-		callKeyCode(getnum,sample,$(that));
+		internalNum = parseInt(getinputNum) + 2;
+		getResAdd = $(that).val();
+		if($(that).val() == 2){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]);
+		}else if($(that).val() == 3){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+" "+sample[internalNum + 2]);
+		}else if($(that).val() == 4){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+" "+sample[internalNum + 3]);
+		}else if($(that).val() == 5){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]);
+		}else if($(that).val() == 6){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]+" "+sample[internalNum + 5]);
+		}else if($(that).val() == 7){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]+" "+sample[internalNum + 5]+" "+sample[internalNum + 6]);
+		}else if($(that).val() == 8){
+			console.log(internalNum);
+			$(that).val(sample[internalNum] +" "+sample[internalNum + 1]+ " "+sample[internalNum + 2]+ " "+sample[internalNum + 3]+" "+sample[internalNum + 4]+" "+sample[internalNum + 5]+" "+sample[internalNum + 6]+" "+sample[internalNum + 7]);
+		}
+		callMissingField();
 	}else if ($(that).hasClass('City_1')){
-		internalNumCity = getnum + 1 ;
-		callKeyCode(getnum,sample,$(that));
+		internalNumCity = internalNum+ parseInt(getResAdd);
+		if($(that).val() == 1){
+			$(that).val(sample[internalNumCity]);
+			$('.State_1').val(sample[internalNumCity + 1]);
+			$('#Zip_1').val(sample[internalNumCity + 2]);
+			$('#PhNo_1').val(sample[internalNumCity + 3]);
+			$('#Country_1, #Country_2').val(sample[internalNumCity + 4]);
+			if(sample[internalNumCity + 6].search(/day/i) != -1){
+				$('#Height').val(sample[internalNumCity + 8]);
+				$('#Weight').val(sample[internalNumCity + 9]);
+				$('#BG').val(sample[internalNumCity + 10]);
+				getshipNum = internalNumCity + 10;
+			} else {
+				$('#Height').val(sample[internalNumCity + 7]);
+				$('#Weight').val(sample[internalNumCity + 8]);
+				$('#BG').val(sample[internalNumCity + 9]);
+				getshipNum = internalNumCity + 9;
+			}
+		}
+		if($(that).val() == 2){
+			$(that).val(sample[internalNumCity] +" "+sample[internalNumCity + 1]);
+			$('.State_1').val(sample[internalNumCity + 2]);
+			$('#Zip_1').val(sample[internalNumCity + 3]);
+			$('#PhNo_1').val(sample[internalNumCity + 4]);
+			$('#Country_1, #Country_2').val(sample[internalNumCity + 5]);
+			if(sample[internalNumCity + 7].search(/day/i) != -1){
+				$('#Height').val(sample[internalNumCity + 9]);
+				$('#Weight').val(sample[internalNumCity + 10]);
+				$('#BG').val(sample[internalNumCity + 11]);
+				getshipNum = internalNumCity + 11;
+			} else {
+				$('#Height').val(sample[internalNumCity + 8]);
+				$('#Weight').val(sample[internalNumCity + 9]);
+				$('#BG').val(sample[internalNumCity + 10]);
+				getshipNum = internalNumCity + 10;
+			}
+		}else if($(that).val() == 3){
+			$(that).val(sample[internalNumCity] +" "+sample[internalNumCity + 1] +" "+sample[internalNumCity + 2] );
+			$('.State_1').val(sample[internalNumCity + 3]);
+			$('#Zip_1').val(sample[internalNumCity + 4]);
+			$('#PhNo_1').val(sample[internalNumCity + 5]);
+			$('#Country_1, #Country_2').val(sample[internalNumCity + 6]);
+			if(sample[internalNumCity + 8].search(/day/i) != -1){
+				$('#Height').val(sample[internalNumCity + 10]);
+				$('#Weight').val(sample[internalNumCity + 11]);
+				$('#BG').val(sample[internalNumCity + 12]);
+				getshipNum = internalNumCity + 12;
+			} else {
+				$('#Height').val(sample[internalNumCity + 9]);
+				$('#Weight').val(sample[internalNumCity + 10]);
+				$('#BG').val(sample[internalNumCity + 11]);
+				getshipNum = internalNumCity + 11;
+			}
+		}
+		callMissingField();
 	}else if ($(that).hasClass('ShipName')){
 		if($(that).val() == 1){
 			$('#ShipName').val(sample[getshipNum + $('#BillName').length + 2]);
